@@ -1,0 +1,5 @@
+mkdocs-material
+mkdocs-markdownextradata-plugin
+git+https://github.com/cachix/mkdocs-rss-plugin@no-git
+pillow 
+cairosvg

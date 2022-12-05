@@ -1,0 +1,59 @@
+site_name: oceansprint.org
+site_description: 'A week of Nix hacking near the ocean'
+site_url: 'https://oceansprint.org'
+repo_name: 'oceansprint/oceansprint.org'
+edit_uri: 'edit/main/docs'
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  custom_dir: docs/overrides
+  palette:
+    primary: white
+    accent: '#FBFBFB'
+  features:
+    - tabs
+    - instant
+    - navigation.tabs
+    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - content.code.annotate
+    - content.tabs.link
+    - toc.integrate
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+  - Past events:
+    - oceantsprint-2022 April: 2022-april.md
+    - oceantsprint-2021: 2021.md
+copyright: Copyright &copy; 2021 - 2023 Niteo & Cachix
+plugins:
+  markdownextradata: {}
+  social:
+    cards_color:
+      fill: "#FBFBFB"
+      text: "#425C82"
+  rss:
+    match_path: blog/posts/.* 
+    date_from_meta:
+      as_creation: date
+      as_update: date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/cachix/devenv
+  generator: false
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.tasklist
