@@ -1,16 +1,10 @@
-# NixOS Ocean Sprint 2021
+# NixOS Ocean Sprint 2022/1
 
-
-|               |                                                                         |
-| ------------- | ------------------------------------------------------------------------|
-| What          | A week of intense hacking on Nix near the ocean.                        |
-| When          | 06/12/2021 - 10/12/2021 (Mon - Fri)                                     |
-| Where         | [Villa with FTTH on Lanzarote, Canary Islands](https://house.niteo.co/) |
-| Who           | ~15 developers                                                          |
+[TL;DR](https://www.notion.so/5558ab2cc6634f6a8344c2aaf05c8a63)
 
 **Table Of Contents**
 
-Eight years after [the last Zidanca Sprint](https://www.termitnjak.com/en/blog/zidanca-sprint-2013?subject=NixOS), we're back! Watch [video recap](https://vimeo.com/100400408) for some highlights 😻
+After [the successful sprint in 2021](https://2021.oceansprint.org/), we’re doing another sprint! 😻
 
 ## Location
 
@@ -45,7 +39,7 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## Registration
 
-Closed, as we have reached our limit. We hope in the future there will be more of these events!
+[Fill out the form to apply](https://886ae3fg27i.typeform.com/to/uvBrjIsq).
 
 ## Topics
 
@@ -67,75 +61,78 @@ The best way to travel is [via a plane to Lanzarote airport](https://www.google.
 - Gastronomy
 - Sailing
 - Cave sightseeing
+- Diving
 
 ## Sponsoring
 
-We're looking for sponsors to cover expenses such as venue, catering, pavilion tents rental, T-shirt printing, LTE access points for backup. Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking. Our target budget is 5000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
+We're looking for sponsors to cover expenses such as venue, catering, pavilion tents rental, T-shirt printing, LTE access points for backup. Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking. Our target budget is 6000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
 
-[Sponsor levels](https://www.notion.so/57854b5b4a40489e984e182e0f205509)
+[Sponsor levels](https://www.notion.so/ab49799fed7242999ada3e81bcc5013b)
 
 ### Sponsors
 
 ### Gold
 
-![Serokell is an international R&D company that specializes in PLT, protocols, biotech and machine learning](assets/2021/logo-black.png)
+![[Platonic.systems](http://Platonic.systems) - **Solving your toughest software problems**](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/logo.svg)
 
-Serokell is an international R&D company that specializes in PLT, protocols, biotech and machine learning
+[Platonic.systems](http://Platonic.systems) - **Solving your toughest software problems**
 
 ### Silver
 
-![[cyberus-technology.de](http://cyberus-technology.de/) - Secure and Fast Intel Virtualization](assets/2021/cyberus-logo.png)
+![[cyberus-technology.de](http://cyberus-technology.de/)
+ - Secure and Fast Intel Virtualization](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/cyberus.png)
 
-[cyberus-technology.de](http://cyberus-technology.de/) - Secure and Fast Intel Virtualization
+[cyberus-technology.de](http://cyberus-technology.de/)
+ - Secure and Fast Intel Virtualization
 
-![[numtide.com](http://numtide.com) - NixOS and DevOps consulting](assets/2021/numtide-logo.png)
+![Building products to make Nix easier to learn for individuals and easier to scale for teams](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/flox_blue_rgb.png)
 
-[numtide.com](http://numtide.com) - NixOS and DevOps consulting
-
-![[pnsol.com](http://www.pnsol.com/) - Dependable performance by design](assets/2021/pns.png)
-
-[pnsol.com](http://www.pnsol.com/) - Dependable performance by design
-
-![[hypered.io](https://hypered.io/) - Software development, defined](assets/2021/hypered-1040x685_(1).svg)
-
-[hypered.io](https://hypered.io/) - Software development, defined
+Building products to make Nix easier to learn for individuals and easier to scale for teams
 
 ### Bronze
 
-![[hercules-ci.com/](http://hercules-ci.com/) - Nix-first CI/CD](assets/2021/hercules-logo-rendered-960.png)
+![[numtide.com](http://numtide.com/)
+ - NixOS and DevOps consulting](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/numtide.png)
 
-[hercules-ci.com/](http://hercules-ci.com/) - Nix-first CI/CD
+[numtide.com](http://numtide.com/)
+ - NixOS and DevOps consulting
+
+![Helsinki Systems - Your partner for hosting, networks and IT solutions running NixOS](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/helsinki-systems.png)
+
+Helsinki Systems - Your partner for hosting, networks and IT solutions running NixOS
+
+![Feeld. Dating for humans.](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/Feeld-LogoLockup-Black-RGB.png)
+
+Feeld. Dating for humans.
+
+![A software innovation lab that helps deep tech startup](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/logo_tweag_black_with_description.png)
+
+A software innovation lab that helps deep tech startup
 
 ### Organizers
 
-![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2021/logo-small.png)
+![[cachix.org](https://cachix.org/) - Nix binary cache hosting](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/logo-small.png)
 
 [cachix.org](https://cachix.org/) - Nix binary cache hosting
 
-![[niteo.co](https://niteo.co/) - SaaS studio transitioning to Nix](assets/2021/Niteo-02.png)
+![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](NixOS%20Ocean%20Sprint%202022%201%208ff5624eaf77492eaea768f0570b3f7a/logo_copy.png)
 
-[niteo.co](https://niteo.co/) - SaaS studio transitioning to Nix
+[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams
 
 ## Participants
 
+- Michael Schneider
+- Jezen Thomas
+- Martin Messer
+- David Hauer
+- Emily Trau
+- Lassulus
 - Arian van Putten
-- Jacek Galowicz
-- Jonas Chevalier
-- Florian Klink
-- Michael Fellinger
-- Rob Vermaas
-- Robert Hensing
-- Dario Bertini
 - Andreas Schrägle
-- Luc Perkins
-- Andreas Rammhold
-- Bernardo Meurer Costa
-- Marijan Petričević
-- Vo Minh Thu
-- Florian Friesdorf
+- Max Hausch
+- Gašper Vozel
 - Janne Heß
-- Amon Stopinšek
-- Eelco Dolstra
+- Florian Friesdorf
 
 ## Organizers
 
@@ -151,5 +148,3 @@ We will be staying outside most of the time. We'll be renting a pavilion tent fo
 The temperature drops to a minimum of 15 C outside during the night so it's possible to have windows open.
 
 Spain takes the pandemic very seriously, make sure to check up to date requirements before traveling.
-
-[September update](https://www.notion.so/September-update-3bf790f268524a829d3a27a2495ed650)
