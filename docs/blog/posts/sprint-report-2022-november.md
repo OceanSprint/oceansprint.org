@@ -3,6 +3,7 @@ draft: false
 date: 2022-12-07
 authors:
   - domenkozar
+  - zupo
 ---
 
 # 2022 November Sprint Report
