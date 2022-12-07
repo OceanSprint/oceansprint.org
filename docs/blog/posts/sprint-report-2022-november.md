@@ -18,7 +18,7 @@ and succeeded doing so, releasing [lanzaboote](https://github.com/blitz/lanzaboo
 
 [Andrea blogged](https://blog.aciceri.dev/posts/ocean-sprint/) about his sprint experience as he dove into Nix internals to better understand how *2nix language tooling works, which also resulted into [a Nix improvement PR](https://github.com/NixOS/nix/pull/7339).
 
-[Peter](https://github.com/ggpeti) set out to understand and extend the Nix language server [nil](https://github.com/oxalica/nil) with an initial goal to add code completion to the Nix builtins. He ended up with a fully set-up development environment for Nil in his laptop's system flake, the ability to emit dummy code completions, and what seems to him as the correct representation of the `builtins` object in Nil's language model - but it just does not work yet somehow.
+[Peter](https://github.com/ggpeti) set out to understand and extend the Nix language server [nil](https://github.com/oxalica/nil) with an initial goal to add code completion to the Nix builtins. He ended up with a fully set-up development environment for Nil, the ability to emit dummy code completions, and some understanding of the language server's data model.
 
 [Johannes](https://github.com/hsjobeki) added [nodejs build system to dream2nix](https://github.com/nix-community/dream2nix/pulls?q=is%3Apr+author%3Ahsjobeki+is%3Aclosed) and created [noogle](https://noogle.dev/).
 
