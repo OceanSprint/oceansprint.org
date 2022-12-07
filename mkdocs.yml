@@ -2,6 +2,7 @@ site_name: oceansprint.org
 site_description: 'A week of Nix hacking near the ocean'
 site_url: 'https://oceansprint.org'
 repo_name: 'oceansprint/oceansprint.org'
+repo_url: 'https://github.com/oceansprint//oceansprint.org'
 edit_uri: 'edit/main/docs'
 theme:
   name: material
