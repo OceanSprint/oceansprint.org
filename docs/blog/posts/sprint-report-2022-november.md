@@ -27,6 +27,8 @@ and succeeded doing so, releasing [lanzaboote](https://github.com/blitz/lanzaboo
 
 [Jacek blogged](https://blog.galowicz.de/2022/11/26/nix-community-oceansprint3-report/) about his experience and sponsoring of this event and how it brings people together.
 
+[Flokli](https://flokli.de/) worked on tvix-store protocol and [explained in depth](https://flokli.de/posts/2022-12-06-oceansprint-report/) how it's designed and interoperability with the current APIs we have in Nix.
+
 [Nejc](https://twitter.com/nzupan) & [Domen](https://twitter.com/domenkozar) teamed up on [an old painpoint](https://github.com/NixOS/nix.dev/pull/252) of testing shell sessions in markdown files. The result of the sprint is [tesh 0.1](https://github.com/OceanSprint/tesh) release that can now be used in [devenv](https://devenv.sh) and [nix.dev](https://nix.dev)!
 
 
