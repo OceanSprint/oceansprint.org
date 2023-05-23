@@ -51,7 +51,7 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## Registration
 
-[Fill out the form to apply](https://886ae3fg27i.typeform.com/to/AeyCUuha).
+[Fill out the form to apply](https://886ae3fg27i.typeform.com/to/LC8ThHcI).
 
 ## Topics
 
@@ -68,6 +68,7 @@ It's also possible to fly to other island airports and then take a short flight 
 - First-class surfing location with [verified instructors](http://www.watermanlanzarote.com/)
 - Kitesurfing and windsurfing
 - Wingfoiling
+- Yoga
 - [Paragliding](https://www.famaraiso.es/)
 - Visiting the Timanfaya vulcano and eating fish grilled on lava
 - [Cycling and mountain biking](https://www.tripadvisor.com/Attractions-g187477-Activities-c61-t214-Lanzarote_Canary_Islands.html)
