@@ -1,23 +1,20 @@
-# NixOS Ocean Sprint 2022/2
+# NixOS Ocean Sprint 2023
 
 |               |                                                                         |
 | ------------- | ------------------------------------------------------------------------|
 | What          | A week of intense hacking on Nix near the ocean.                        |
-| When          | 21/11/2022 - 25/11/2022 (Mon - Fri)                                     |
+| When          | 16/10/2023 - 20/10/2023 (Mon - Fri)                                     |
 | Where         | [Villa with FTTH on Lanzarote, Canary Islands](https://house.niteo.co/) |
 | Who           | ~20 developers                                                          |
 
 
-
 **Table Of Contents**
-
-After [the successful sprint in 2021](https://blog.cachix.org/posts/2021-12-17-nixos-ocean-sprint-wrap-up/) and [2022/1](https://niteo.co/blog/oceansprint-2022), we’re doing the third sprint! 😻
 
 ## Location
 
 [Costa Tequise, Lanzarote](https://goo.gl/maps/etSV5TSRLdFtDAX67)
 
-The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool. 
+The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool.
 
 Withing a 5 minute walk you can reach:
 
@@ -40,13 +37,15 @@ Withing a 5 minute walk you can reach:
 
 ## Accommodation
 
-Once you are registered for the sprint, we'll get everyone the location of the villa and local contacts to organize the booking of nearby villas that cost ~200 EUR per person per week.
+Once you are approved participant for the sprint, we'll get everyone to a shared communication room to help organize accomodation.
+
+Note that the accomodation is not covered by the sprint budget.
 
 If you are planning to come with your family and/or stay longer, [Nejc Zupan](https://twitter.com/nzupan) has written a [remote worker's guide to Lanzarote](https://github.com/zupo/awesome-lanzarote).
 
 ## Food
 
-We'll organize catering (breakfast and lunch) during the sprint. 
+We'll organize catering (breakfast and lunch) during the sprint, which is paid by the sponsors.
 
 There are a ton of options for dinners in nearby restaurants.
 
@@ -60,12 +59,15 @@ To be determined once registration closes based on attendees interest.
 
 ## Travel
 
-The best way to travel is [via a plane to Lanzarote airport](https://www.google.com/travel/flights/search?tfs=CBwQAhojagwIAxIIL20vMDk0N2wSCjIwMjEtMTEtMjdyBwgBEgNBQ0UaI2oHCAESA0FDRRIKMjAyMS0xMi0wM3IMCAMSCC9tLzA5NDdscAGCAQsI____________AUABSAGYAQE). It's also possible to fly to other island airports and then take a ferry (Fuertaventura is closest being 30min away).
+The best way to travel is [via a plane to Lanzarote airport](https://www.google.com/travel/flights/search?tfs=CBwQAhojagwIAxIIL20vMDk0N2wSCjIwMjEtMTEtMjdyBwgBEgNBQ0UaI2oHCAESA0FDRRIKMjAyMS0xMi0wM3IMCAMSCC9tLzA5NDdscAGCAQsI____________AUABSAGYAQE). 
+
+It's also possible to fly to other island airports and then take a short flight or a ferry (Fuertaventura is closest being 30min away).
 
 ## Stuff to do on Lanzarote
 
 - First-class surfing location with [verified instructors](http://www.watermanlanzarote.com/)
 - Kitesurfing and windsurfing
+- Wingfoiling
 - [Paragliding](https://www.famaraiso.es/)
 - Visiting the Timanfaya vulcano and eating fish grilled on lava
 - [Cycling and mountain biking](https://www.tripadvisor.com/Attractions-g187477-Activities-c61-t214-Lanzarote_Canary_Islands.html)
@@ -78,7 +80,11 @@ The best way to travel is [via a plane to Lanzarote airport](https://www.google.
 
 ## Sponsoring
 
-We're looking for sponsors to cover expenses such as venue, catering, pavilion tents rental, T-shirt printing, LTE access points for backup. Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking. Our target budget is 6000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
+We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing. 
+
+Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking. 
+
+Our target budget is 7000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
 
 [Sponsor levels](https://www.notion.so/7c23d75fffae46eca62f94393c714fe1)
 
@@ -86,27 +92,9 @@ We're looking for sponsors to cover expenses such as venue, catering, pavilion t
 
 ### Gold
 
-![nixos.svg](assets/2022-2/nixos.svg)
-
 ### Silver
 
-![supercede.svg](assets/2022-2/supercede.svg)
-
-![flox.png](assets/2022-2/flox.png)
-
-![determinate_systems.svg](assets/2022-2/determinate_systems.svg)
-
-![secunet.svg](assets/2022-2/secunet.svg)
-
-![cyberus.svg](assets/2022-2/cyberus.svg)
-
 ### Bronze
-
-![hercules-logo-rendered-960.png](assets/2022-2/hercules-logo-rendered-960.png)
-
-![logo_tweag_black_with_description (1).png](assets/2022-2/logo_tweag_black_with_description_(1).png)
-
-![hypered-1040x685 (1) (1).svg](assets/2022-2/hypered-1040x685_(1)_(1).svg)
 
 ### Organizers
 
@@ -120,41 +108,9 @@ We're looking for sponsors to cover expenses such as venue, catering, pavilion t
 
 ## Participants
 
-- Jezen Thomas
-- Johannes Kirschbauer
-- David Hauer
-- Marton Boros
-- Ferenczy Péter
-- David Buchanan
-- Alejandro Sanchez Medina
-- Max Headroom
-- Andrea Ciceri
-- Sander Melnikov
-- Robert Hensing
-- Luc Perkins
-- Bernardo Meurer Costa
-- Vo Minh Thu
-- Julian Stecklina
-- Niklas Sturm
-- Jacek Galowicz
-- José María Landa Chávez
-- Ryan Lahfa
-- Paul Härle
-- Arian van Putten
-- Florian Klink
 
 ## Organizers
 
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
 - Nejc Zupan, recently converted NixOS evangelist, organizer of Sauna Sprint
 - Florian Friesdorf, long time contributor to NixOS
-
-## COVID-19
-
-It's required that you are vaccinated before coming to the sprint.
-
-We will be staying outside most of the time. We'll be renting a pavilion tent for protection against the sun and the unfortunate droplet of rain. 
-
-The temperature drops to a minimum of 15 C outside during the night so it's possible to have windows open.
-
-Spain takes the pandemic very seriously, make sure to check up to date requirements before traveling.
