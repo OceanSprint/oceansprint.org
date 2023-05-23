@@ -87,7 +87,11 @@ Please help us make this a productive event by chipping in, so we can focus on c
 
 Our target budget is 7000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
 
-[Sponsor levels](https://www.notion.so/7c23d75fffae46eca62f94393c714fe1)
+| Level  | Contribution (EUR) | Perks                        |
+|--------|--------------------|------------------------------|
+| Gold   | 2500               | Silver + Live hiring pitch   |
+| Silver | 1000               | Bronze + Logo on the T-shirt |
+| Bronze | 500                | Logo on the website          |
 
 ### Sponsors
 
