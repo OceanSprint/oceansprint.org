@@ -7,9 +7,6 @@
 | Where         | [Villa with FTTH on Lanzarote, Canary Islands](https://house.niteo.co/) |
 | Who           | ~20 developers                                                          |
 
-
-**Table Of Contents**
-
 ## Location
 
 [Costa Tequise, Lanzarote](https://goo.gl/maps/etSV5TSRLdFtDAX67)
