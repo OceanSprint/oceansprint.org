@@ -80,25 +80,25 @@ It's also possible to fly to other island airports and then take a short flight 
 
 ## Sponsoring
 
-We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing. 
+We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
 
-Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking. 
+Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.
 
-Our target budget is 7000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
+Our target budget is 20000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
 
-| Level  | Contribution (EUR) | Perks                        |
-|--------|--------------------|------------------------------|
-| Gold   | 2500               | Silver + Live hiring pitch   |
-| Silver | 1000               | Bronze + Logo on the T-shirt |
-| Bronze | 500                | Logo on the website          |
+| Level      | Contribution (EUR) | Perks                        |
+|------------|--------------------|--------------------------------------------------------------------------------------------|
+| Gold       | 4000               | Company + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
+| Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
+| Individual | 500                | Logo on the website.                                                                       |
 
 ### Sponsors
 
 ### Gold
 
-### Silver
+### Company
 
-### Bronze
+### Individual
 
 ### Organizers
 
@@ -112,6 +112,7 @@ Our target budget is 7000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sp
 
 ## Participants
 
+Will be announced on 17th June.
 
 ## Organizers
 
