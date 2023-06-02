@@ -84,7 +84,7 @@ We're looking for sponsors to cover expenses such as venue, catering, T-shirt pr
 
 Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.
 
-Our target budget is 20000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
+Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:sponsors@oceansprint.org).
 
 | Level      | Contribution (EUR) | Perks                        |
 |------------|--------------------|--------------------------------------------------------------------------------------------|
