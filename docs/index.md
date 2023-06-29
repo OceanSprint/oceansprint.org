@@ -121,7 +121,31 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ## Participants
 
-Will be announced on 17th June.
+-  Jörg Thalheim
+-  zimbatm
+-  Valentin Gagarin
+-  David Hauer
+-  Jezen Thomas
+-  Julian Stecklina
+-  Tom Sydney Kerckhove
+-  Laurens Duijvesteijn
+-  Michael Schneider
+-  Arian
+-  Jacek Galowicz
+-  Gasper Vozel
+-  Sergei Kozlukov
+-  Sander Melnikov
+-  Julien Malka
+-  lassulus
+-  Jean-François Roche
+-  GEOFFREY HUNTLEY
+-  Paul Haerle
+-  Ilan Joselevich
+-  Florian Klink
+-  Alejandro Sanchez Medina
+-  Johannes Kirschbauer
+-  Ryan Lahfa (RaitoBezarius)
+-  Niklas Sturm
 
 ## Organizers
 
