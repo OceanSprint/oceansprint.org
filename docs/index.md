@@ -106,6 +106,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Secunet
 - NixOS Foundation
 - Flokli
+- Namespace Labs
 
 ### Individual
 
