@@ -98,12 +98,12 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 - Numtide
 - Mercury
+- Secunet
 
 ### Company
 
 - Flox
 - Cyberus Technology
-- Secunet
 - NixOS Foundation
 - Flokli
 - Namespace Labs
