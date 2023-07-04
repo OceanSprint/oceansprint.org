@@ -102,7 +102,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 ### Company
 
 - Flox
-- Cyberous
+- Cyberus Technology
 - Secunet
 - NixOS Foundation
 - Flokli
