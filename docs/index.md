@@ -48,9 +48,7 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## Registration
 
-[Fill out the form to apply](https://886ae3fg27i.typeform.com/to/LC8ThHcI).
-
-The deadline is 16th June, you'll be notified if you're part of the sprint a few days later.
+Closed.
 
 ## Topics
 
