@@ -1,12 +1,9 @@
-{ pkgs, ... }:
+{ pkgs, lib, ... }:
 
 {
-  #languages.python.enable = true;
-
-  packages = [ 
-    pkgs.virtualenv 
-    pkgs.python3Packages.cairocffi
-  ];
+  languages.python.enable = true;
+  languages.python.venv.enable = true;
+  languages.python.venv.requirements = lib.readFile ./requirements.txt;
 
   processes.docs.exec = "bin/mkdocs serve";
 }
