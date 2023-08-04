@@ -92,21 +92,25 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ## Sponsors
 
-### Gold
+### 🏆 Gold
 
-- Numtide
-- Mercury
-- Secunet
+- ![mercury](./logos/mercury.svg)
+- ![numtide](./logos/numtide.svg)
+- ![secunet](./logos/secunet.svg)
+- ![nixos](./logos/nixos.svg)
 
-### Company
+### 🏢 Company
 
-- Flox
-- Cyberus Technology
-- NixOS Foundation
-- Flokli
-- Namespace Labs
+- ![Cyberus Technology](./logos/cyberus.svg)
+- ![Flox](./logos/flox.svg)
+- ![Flokli](./logos/flokli.svg)
+- ![Namespace Labs](./logos/namespace.svg)
+- ![supercede](./logos/supercede.svg)
 
-### Individual
+### 💻 Individual
+
+- Ryan Hill
+- Robert Hensing
 
 ### Organizers
 
@@ -120,31 +124,36 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ## Participants
 
--  Jörg Thalheim
--  zimbatm
--  Valentin Gagarin
--  David Hauer
--  Jezen Thomas
--  Julian Stecklina
--  Tom Sydney Kerckhove
--  Laurens Duijvesteijn
--  Michael Schneider
--  Arian
--  Jacek Galowicz
--  Gasper Vozel
--  Sergei Kozlukov
--  Sander Melnikov
--  Julien Malka
--  lassulus
--  Jean-François Roche
--  GEOFFREY HUNTLEY
--  Paul Haerle
--  Ilan Joselevich
--  Florian Klink
--  Alejandro Sanchez Medina
--  Johannes Kirschbauer
--  Ryan Lahfa (RaitoBezarius)
--  Niklas Sturm
+- Jörg Thalheim
+- Jonas Chevalier
+- Valentin Gagarin
+- David Hauer
+- Jezen Thomas
+- Julian Stecklina
+- Tom Sydney Kerckhove
+- Laurens Duijvesteijn
+- Michael Schneider
+- Arian
+- Jacek Galowicz
+- Gasper Vozel
+- Sergei Kozlukov
+- Sander Melnikov
+- Julien Malka
+- lassulus
+- Jean-François Roche
+- GEOFFREY HUNTLEY
+- Paul Haerle
+- Ilan Joselevich
+- Florian Klink
+- Alejandro Sanchez Medina
+- Johannes Kirschbauer
+- Ryan Lahfa (RaitoBezarius)
+- Niklas Sturm
+- Gabriel Doriath Döhler
+- Tom Berek
+- Michael Hoang
+- Timothy DeHerrera
+- Yvan Sraka
 
 ## Organizers
 

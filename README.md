@@ -1,8 +1,8 @@
-# oceansprint.org 
+# OceanSprint.org
 
-# Contributing
+## Contributing
 
-```
-    $ nix-env -if https://github.com/cachix/devenv/tarball/latest
-    $ devenv up
+```shell-session
+$ nix profile install --accept-flake-config tarball+https://install.devenv.sh/latest
+$ devenv up
 ```
