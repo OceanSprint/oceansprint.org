@@ -7,7 +7,7 @@
 | Where         | [Villa with FTTH on Lanzarote, Canary Islands](https://house.niteo.co/) |
 | Who           | ~20 developers                                                          |
 
-## Location
+## 📍 Location
 
 [Costa Tequise, Lanzarote](https://goo.gl/maps/etSV5TSRLdFtDAX67)
 
@@ -32,7 +32,7 @@ Withing a 5 minute walk you can reach:
 
 ![91387BDE-3654-4AA2-9D1C-9C3E7E0B9005_1_105_c.jpg](assets/2022-2/91387BDE-3654-4AA2-9D1C-9C3E7E0B9005_1_105_c.jpg)
 
-## Accommodation
+## 🏘️ Accommodation
 
 Once you are approved participant for the sprint, we'll get everyone to a shared communication room to help organize accomodation.
 
@@ -40,7 +40,9 @@ Note that the accomodation is not covered by the sprint budget.
 
 If you are planning to come with your family and/or stay longer, [Nejc Zupan](https://twitter.com/nzupan) has written a [remote worker's guide to Lanzarote](https://github.com/zupo/awesome-lanzarote).
 
-## Food
+We'll send you some tips once you're accepted.
+
+## 🍲 Food
 
 We'll organize catering (breakfast and lunch) during the sprint, which is paid by the sponsors.
 
@@ -50,17 +52,17 @@ There are a ton of options for dinners in nearby restaurants.
 
 Closed.
 
-## Topics
+## 🧵 Topics
 
 To be determined once registration closes based on attendees interest.
 
-## Travel
+## 🛬 Travel
 
 The best way to travel is [via a plane to Lanzarote airport](https://www.google.com/travel/flights/search?tfs=CBwQAhojagwIAxIIL20vMDk0N2wSCjIwMjEtMTEtMjdyBwgBEgNBQ0UaI2oHCAESA0FDRRIKMjAyMS0xMi0wM3IMCAMSCC9tLzA5NDdscAGCAQsI____________AUABSAGYAQE). 
 
 It's also possible to fly to other island airports and then take a short flight or a ferry (Fuertaventura is closest being 30min away).
 
-## Stuff to do on Lanzarote
+## 🥳 Stuff to do on Lanzarote
 
 - First-class surfing location with [verified instructors](http://www.watermanlanzarote.com/)
 - Kitesurfing and windsurfing
@@ -94,18 +96,18 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ### 🏆 Gold
 
-- ![mercury](/assets/logos/mercury.svg)
-- ![numtide](/assets/logos/numtide.svg)
-- ![secunet](/assets/logos/secunet.svg)
-- ![nixos](/assets/logos/nixos.svg)
+![mercury](/assets/logos/mercury.svg){: style="width:400px; margin:20px"}
+![numtide](/assets/logos/numtide.svg){: style="width:200px; margin:20px"}
+![secunet](/assets/logos/secunet.svg){: style="width:400px; margin:20px"}
+![nixos](/assets/logos/nixos.svg){: style="width:400px; margin:20px"}
 
 ### 🏢 Company
 
-- ![Cyberus Technology](/assets/logos/cyberus.svg)
-- ![Flox](/assets/logos/flox.svg)
-- ![Flokli](/assets/logos/flokli.svg)
-- ![Namespace Labs](/assets/logos/namespace.svg)
-- ![supercede](/assets/logos/supercede.svg)
+![Cyberus Technology](/assets/logos/cyberus.svg){: style="width:400px; margin:20px"}
+![Flox](/assets/logos/flox.svg){: style="width:400px; margin:20px"}
+![Flokli](/assets/logos/flokli.svg){: style="width:400px; margin:20px"}
+![Namespace Labs](/assets/logos/namespace.svg){: style="width:400px; margin:20px"}
+![supercede](/assets/logos/supercede.svg){: style="width:400px; margin:20px"}
 
 ### 💻 Individual
 
@@ -114,11 +116,11 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ### Organizers
 
-![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2022-2/logo-small.png)
+![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2022-2/logo-small.png){: style="width:400px; margin:20px"}
 
-![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](assets/2022-2/logo_copy.png)
+![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](assets/2022-2/logo_copy.png){: style="width:400px; margin:20px"}
 
-## Participants
+## 🧑 Participants
 
 - Jörg Thalheim
 - Jonas Chevalier
