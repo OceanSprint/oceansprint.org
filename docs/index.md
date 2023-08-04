@@ -94,18 +94,18 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ### 🏆 Gold
 
-- ![mercury](./logos/mercury.svg)
-- ![numtide](./logos/numtide.svg)
-- ![secunet](./logos/secunet.svg)
-- ![nixos](./logos/nixos.svg)
+- ![mercury](/assets/logos/mercury.svg)
+- ![numtide](/assets/logos/numtide.svg)
+- ![secunet](/assets/logos/secunet.svg)
+- ![nixos](/assets/logos/nixos.svg)
 
 ### 🏢 Company
 
-- ![Cyberus Technology](./logos/cyberus.svg)
-- ![Flox](./logos/flox.svg)
-- ![Flokli](./logos/flokli.svg)
-- ![Namespace Labs](./logos/namespace.svg)
-- ![supercede](./logos/supercede.svg)
+- ![Cyberus Technology](/assets/logos/cyberus.svg)
+- ![Flox](/assets/logos/flox.svg)
+- ![Flokli](/assets/logos/flokli.svg)
+- ![Namespace Labs](/assets/logos/namespace.svg)
+- ![supercede](/assets/logos/supercede.svg)
 
 ### 💻 Individual
 
@@ -116,11 +116,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2022-2/logo-small.png)
 
-[cachix.org](https://cachix.org/) - Nix binary cache hosting
-
 ![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](assets/2022-2/logo_copy.png)
-
-[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams
 
 ## Participants
 
