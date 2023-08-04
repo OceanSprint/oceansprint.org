@@ -48,7 +48,7 @@ We'll organize catering (breakfast and lunch) during the sprint, which is paid b
 
 There are a ton of options for dinners in nearby restaurants.
 
-## Registration
+## 🔥 Registration
 
 Closed.
 
@@ -78,7 +78,7 @@ It's also possible to fly to other island airports and then take a short flight 
 - Cave sightseeing
 - Diving
 
-## Sponsoring
+## 💙 Sponsoring
 
 We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
 
