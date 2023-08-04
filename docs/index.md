@@ -114,11 +114,6 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Ryan Hill
 - Robert Hensing
 
-### Organizers
-
-![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2022-2/logo-small.png){: style="width:400px; margin:20px"}
-
-![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](assets/2022-2/logo_copy.png){: style="width:400px; margin:20px"}
 
 ## 🧑 Participants
 
@@ -153,7 +148,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Timothy DeHerrera
 - Yvan Sraka
 
-## Organizers
+## 🎖️ Organizers
 
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
 - Nejc Zupan, recently converted NixOS evangelist, organizer of Sauna Sprint
