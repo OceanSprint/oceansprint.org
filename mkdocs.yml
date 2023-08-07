@@ -48,7 +48,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github 
-      link: https://github.com/cachix/devenv
+      link: https://github.com/oceansprint/oceansprint.org
   generator: false
 markdown_extensions:
   - tables
