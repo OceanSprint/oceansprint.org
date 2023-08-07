@@ -34,12 +34,13 @@ nav:
     - oceansprint-2021: 2021.md
 copyright: Copyright &copy; 2021 - 2023 <a href="https://niteo.co/">Niteo</a> & <a href="https://cachix.org">Cachix</a>
 plugins:
-  markdownextradata: {}
+  blog: {}
   social:
-    cards_color:
-      fill: "#FBFBFB"
-      text: "#425C82"
+    cards_layout_options:
+      background_color: "#FBFBFB"
+      color: "#425C82"
   rss:
+    use_git: false
     match_path: blog/posts/.* 
     date_from_meta:
       as_creation: date

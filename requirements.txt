@@ -1,5 +1,4 @@
-mkdocs-material
-mkdocs-markdownextradata-plugin
-git+https://github.com/cachix/mkdocs-rss-plugin@no-git
+mkdocs-material==9.2.0b3
+mkdocs-rss-plugin==1.8.0
 pillow 
 cairosvg

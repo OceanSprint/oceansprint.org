@@ -100,18 +100,18 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ### 🏆 Gold
 
-![mercury](/assets/logos/mercury.svg){: style="width:400px; margin:20px"}
-![numtide](/assets/logos/numtide.svg){: style="width:400px; margin:20px"}
-![secunet](/assets/logos/secunet.svg){: style="width:400px; margin:20px"}
-![nixos](/assets/logos/nixos.svg){: style="width:400px; margin:20px"}
+![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
+![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
+![secunet](./assets/logos/secunet.svg){: style="width:400px; margin:20px"}
+![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
 
 ### 🏢 Company
 
-![Cyberus Technology](/assets/logos/cyberus.svg){: style="width:400px; margin:20px"}
-![Flox](/assets/logos/flox.svg){: style="width:400px; margin:20px"}
-![Flokli](/assets/logos/flokli.svg){: style="width:400px; margin:20px"}
-![Namespace Labs](/assets/logos/namespace.svg){: style="width:400px; margin:20px"}
-![supercede](/assets/logos/supercede.svg){: style="width:400px; margin:20px"}
+![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:400px; margin:20px"}
+![Flox](./assets/logos/flox.svg){: style="width:400px; margin:20px"}
+![Flokli](./assets/logos/flokli.svg){: style="width:400px; margin:20px"}
+![Namespace Labs](./assets/logos/namespace.svg){: style="width:400px; margin:20px"}
+![supercede](./assets/logos/supercede.svg){: style="width:400px; margin:20px"}
 
 ### 💻 Individual
 
