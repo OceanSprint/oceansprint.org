@@ -1,11 +1,17 @@
 # NixOS Ocean Sprint 2023
 
-|               |                                                                         |
-| ------------- | ------------------------------------------------------------------------|
-| What          | A week of intense hacking on Nix near the ocean.                        |
-| When          | 16/10/2023 - 20/10/2023 (Mon - Fri)                                     |
-| Where         | [Villa with FTTH on Lanzarote, Canary Islands](https://house.niteo.co/) |
-| Who           | ~20 developers                                                          |
+*What*
+
+:    A week of intense hacking [on Nix](https://nix.dev) near the ocean.
+
+*When*          
+:    16/10/2023 - 20/10/2023 (Mon - Fri)  
+
+*Where*
+:    [Villa with FTTH on Lanzarote, Canary Islands.](https://house.niteo.co/)
+
+*Who* 
+:    ~30 developers.
 
 ## 📍 Location
 

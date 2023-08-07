@@ -53,6 +53,7 @@ extra:
 markdown_extensions:
   - tables
   - admonition
+  - def_list
   - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
