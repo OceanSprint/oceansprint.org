@@ -84,7 +84,7 @@ It's also possible to fly to other island airports and then take a short flight 
 - Cave sightseeing
 - Diving
 
-## 💙 Sponsoring
+## 💙 Sponsors
 
 We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
 
@@ -97,8 +97,6 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 | Gold       | 4000               | Company + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
 | Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       |
-
-## Sponsors
 
 ### 🏆 Gold
 
