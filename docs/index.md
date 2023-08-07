@@ -134,7 +134,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Julien Malka
 - lassulus
 - Jean-François Roche
-- GEOFFREY HUNTLEY
+- Geoffrey Huntley
 - Paul Haerle
 - Ilan Joselevich
 - Florian Klink
