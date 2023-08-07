@@ -1,9 +1,15 @@
 { pkgs, lib, ... }:
 
 {
-  languages.python.enable = true;
-  languages.python.venv.enable = true;
-  languages.python.venv.requirements = lib.readFile ./requirements.txt;
+  packages = [ 
+    pkgs.cairo
+  ];
 
-  processes.docs.exec = "bin/mkdocs serve";
+  languages.python = {
+    enable = true;
+    venv.enable = true;
+    venv.requirements = ./requirements.txt;
+  };
+
+  processes.docs.exec = "mkdocs serve";
 }
