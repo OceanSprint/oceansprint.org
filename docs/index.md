@@ -117,6 +117,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 - Ryan Hill
 - Robert Hensing
+- Jacek Galowicz
 
 
 ## 🧑 Participants
