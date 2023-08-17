@@ -115,9 +115,10 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ### 💻 Individual
 
+![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:400px; margin:20px"}
+![Nixcademy](./assets/logos/nixcademy.svg){: style="width:400px; margin:20px"}
+
 - Ryan Hill
-- Robert Hensing
-- Jacek Galowicz
 
 
 ## 🧑 Participants
