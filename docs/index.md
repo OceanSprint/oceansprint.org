@@ -107,16 +107,16 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ### 🏢 Company
 
-![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:400px; margin:20px"}
-![Flox](./assets/logos/flox.svg){: style="width:400px; margin:20px"}
-![Flokli](./assets/logos/flokli.svg){: style="width:400px; margin:20px"}
-![Namespace Labs](./assets/logos/namespace.svg){: style="width:400px; margin:20px"}
-![supercede](./assets/logos/supercede.svg){: style="width:400px; margin:20px"}
+![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:250px; margin:20px"}
+![Flox](./assets/logos/flox.svg){: style="width:250px; margin:20px"}
+![Flokli](./assets/logos/flokli.svg){: style="width:250px; margin:20px"}
+![Namespace Labs](./assets/logos/namespace.svg){: style="width:250px; margin:20px"}
+![supercede](./assets/logos/supercede.svg){: style="width:250px; margin:20px"}
 
 ### 💻 Individual
 
-![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:400px; margin:20px"}
-![Nixcademy](./assets/logos/nixcademy.svg){: style="width:400px; margin:20px"}
+![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:200px; margin:20px"}
+![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"}
 
 - Ryan Hill
 
