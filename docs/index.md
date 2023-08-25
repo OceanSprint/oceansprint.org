@@ -46,7 +46,7 @@ Note that the accomodation is not covered by the sprint budget.
 
 If you are planning to come with your family and/or stay longer, [Nejc Zupan](https://twitter.com/nzupan) has written a [remote worker's guide to Lanzarote](https://github.com/zupo/awesome-lanzarote).
 
-We'll send you some tips once you're accepted.
+See [Accomodations](./accomodation.md) for a list of suggestions.
 
 ## 🍲 Food
 

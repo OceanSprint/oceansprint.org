@@ -1,9 +1,10 @@
-domenkozar:
-  name: Domen Kožar
-  description: Cachix founder
-  avatar: https://github.com/domenkozar.png
-zupo:
-  name: Neyts Zupan
-  description: Niteo founder
-  avatar: https://github.com/zupo.png
+authors:
+  domenkozar:
+    name: Domen Kožar
+    description: Cachix founder
+    avatar: https://github.com/domenkozar.png
+  zupo:
+    name: Neyts Zupan
+    description: Niteo founder
+    avatar: https://github.com/zupo.png
   
