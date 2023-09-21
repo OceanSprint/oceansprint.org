@@ -36,7 +36,7 @@ We'll organize the transportation and each participants brings their own food&dr
 Enjoy the calm sea and scenic views during a few hour sailing excursion at sunset
 with drinks and tapas.
 
-### Swimming - free
+### The Morning Dip - free
 
 Go for a morning swim 5min away from the venue.
 
