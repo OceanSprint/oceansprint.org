@@ -42,7 +42,7 @@ Meet at venue at 8AM, walk down to the beach for a quick swim, be back by 9AM br
 
 ### Yoga - free
 
-Depending on the interest, a yoga teacher could come to the venue or we would to go
+Depending on the interest, a yoga teacher could come to the venue or we would go to
 the beach to strech.
 
 ### Drumming - free
