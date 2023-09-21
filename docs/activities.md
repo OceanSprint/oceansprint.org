@@ -38,7 +38,7 @@ with drinks and tapas.
 
 ### The Morning Dip - free
 
-Go for a morning swim 5min away from the venue.
+Meet at venue at 8AM, walk down to the beach for a quick swim, be back by 9AM breakfast time.
 
 ### Yoga - free
 
