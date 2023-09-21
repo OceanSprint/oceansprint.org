@@ -4,7 +4,7 @@
 
 ### Wine tasting - 35€
 
-Dive deeper into the unique style of how wine is produced on Lanzarote.
+We get picked up by bus and we dive deeper into the unique style of how wine is produced on Lanzarote.
 
 Choose four of your favourite styles from a portfolio of wines.
 
@@ -65,32 +65,36 @@ We can organize try dives for those who have not dived before as well as guided 
 
 ### Bouldering - 12€
 
-Go to [a bouldering gym](https://hangonlanzarote.com/) and stretch those fingers.
+We get picked up by vans and go to [a bouldering gym](https://hangonlanzarote.com/) and stretch those fingers.
 
 ### Submarine Excursion - 56€
 
 [A proper submarine experience](https://www.submarinesafaris.com/) that goes down to 30 meters, a geeky adventure underwater.
 
+Bus transport is provided by the submarine company.
+
 ### eMTB trip - 50€
 
-A 3-hour electric mountain-bike trip to the top of Lanzarote, with amazing 360 views followed by a 400m singletrack descent back to the sprint venue. @zupo's favorite after-work trail. Bikes rented from a nearby shop.
+A 3-hour electric mountain-bike trip to the top of Lanzarote, with amazing 360-degrees views followed by a 400 vertical-meters singletrack descent back to the sprint venue. @zupo's favorite after-work trail. Bikes rented from a nearby shop.
 
 Experience needed.
 
 ### e-bike trip - 40€
 
-A 3 hour e-bike tour along the coastal pathway from Costa Teguise, through Arrecife the capital, past the airport to Puerto del Carmen, and back.
+A 3 hour e-bike tour along the coastal pathway from Costa Teguise, through Arrecife, the capital of Lanzarote, past the airport to Puerto del Carmen, and back.
 
 Beginner-friendly.
 
 
-### Intro to Wing-foiling / Windsurfing - 70€
+### Intro to Wing-foiling / Windsurfing - 50€
 
 Walk down to the beach and do a 3-hour intro lesson to the new sport of Wing-foiling at the local windsurfing school.
 
+Beginner friendly.
+
 ### Dawn patrol - free
 
-Beat the crowds and experience true Lanzarote surfing by joining @zupo/@domenkozar at locals-only spots around the island, while watching the Sun rise over the horizon.
+Beat the crowds and experience pure Lanzarote surfing by joining @zupo/@domenkozar at locals-only spots around the island, while watching the Sun rise over the horizon.
 
 Experience needed.
 
