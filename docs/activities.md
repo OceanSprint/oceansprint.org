@@ -31,7 +31,7 @@ We'll go for dinner near the venue, then organize the transportation and each pa
 ## Recommended
 
 
-### Sailing - TBA
+### Sailing with catamaran - 50€
 
 Enjoy the ocean vibes and scenic views during a few hour catamaran excursion at sunset
 with drinks and tapas.
