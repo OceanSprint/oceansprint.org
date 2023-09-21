@@ -12,7 +12,7 @@ A bite of artisanal cheese and charcuterie will accompany your personalized tast
 
 ### Vulcano hike - free
 
-A classic of Ocean Sprint. We leave the venue for a 1.5h hike to the nearest vulcano with great views over the nearby tows and coastline.
+A classic of Ocean Sprint. We leave the venue on foot for a 1.5h hike to the nearest vulcano with great views over the nearby tows and coastline.
 
 Beginner-friendly.
 
