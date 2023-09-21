@@ -33,7 +33,7 @@ We'll organize the transportation and each participants brings their own food&dr
 
 ### Sailing - TBA
 
-Enjoy the calm sea and scenic views during a few hour sailing excursion at sunset
+Enjoy the ocean vibes and scenic views during a few hour catamaran excursion at sunset
 with drinks and tapas.
 
 ### The Morning Dip - free
