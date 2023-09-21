@@ -98,3 +98,6 @@ Beat the crowds and experience pure Lanzarote surfing by joining @zupo/@domenkoz
 
 Experience needed.
 
+### Go-kart Gran Prix - 50€
+
+We get picked up by a bus and we do a private gran prix of 30 km of race in 23 laps.
