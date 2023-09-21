@@ -28,6 +28,14 @@ A night under the stars with a bonfire in the middle of a vulcano.
 
 We'll go for dinner near the venue, then organize the transportation and each participants brings their own drinks&snacks.
 
+### Drumming - free
+
+We'd like to offer you a group drumming session on-site on Monday or Tuesday with Karina, the drummer from The 3 Bridies.
+
+The idea: an instrument for everybody, whether they know how to play it or not and we have 30min of fun under the guidance of Karina.
+
+Originally from Argentina, Karina is our percussionist, playing congas and cajon, along with a variety of other percussion instruments in our live gigs, including, cymbals, chimes and rain stick among others. Karina is a teacher of percussion and a serial collector of percussion instruments, she brings a great flavour to our folk music.
+
 ## Recommended
 
 
@@ -44,14 +52,6 @@ Meet at venue at 8AM, walk down to the beach for a quick swim, be back by 9AM br
 
 Depending on the interest, a yoga teacher could come to the venue or we would go to
 the beach to strech.
-
-### Drumming - free
-
-We'd like to offer you a group drumming session on-site on Monday or Tuesday with Karina, the drummer from The 3 Bridies.
-
-The idea: an instrument for everybody, whether they know how to play it or not and we have 30min of fun under the guidance of Karina.
-
-Originally from Argentina, Karina is our percussionist, playing congas and cajon, along with a variety of other percussion instruments in our live gigs, including, cymbals, chimes and rain stick among others. Karina is a teacher of percussion and a serial collector of percussion instruments, she brings a great flavour to our folk music.
 
 ### Diving - ~100€
 
