@@ -26,7 +26,7 @@ Beginner-friendly.
 
 A night under the stars with a bonfire in the middle of a vulcano. 
 
-We'll organize the transportation and each participants brings their own food&drinks.
+We'll go for dinner near the venue, then organize the transportation and each participants brings their own drinks&snacks.
 
 ## Recommended
 
