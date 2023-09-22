@@ -29,6 +29,7 @@ nav:
   - Blog:
     - blog/index.md
   - Accomodation: accomodation.md
+  - Schedule: schedule.md
   - Activities: activities.md
   - Past events:
     - oceansprint-2022 November: 2022-november.md
