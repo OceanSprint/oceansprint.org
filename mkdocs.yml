@@ -26,7 +26,7 @@ theme:
     - toc.integrate
 nav:
   - Home: index.md
-  - Blog:
+  - News:
     - blog/index.md
   - Accomodation: accomodation.md
   - Schedule: schedule.md
