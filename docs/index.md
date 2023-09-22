@@ -135,13 +135,11 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Michael Schneider
 - Arian
 - Jacek Galowicz
-- Gasper Vozel
 - Sergei Kozlukov
 - Sander Melnikov
 - Julien Malka
 - lassulus
 - Jean-François Roche
-- Geoffrey Huntley
 - Paul Haerle
 - Ilan Joselevich
 - Florian Klink
@@ -153,7 +151,9 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Tom Berek
 - Michael Hoang
 - Timothy DeHerrera
-- Yvan Sraka
+- Marijan Petricevic
+- Chloe Kever
+- Linus Heckemann
 
 ## 🎖️ Organizers
 
