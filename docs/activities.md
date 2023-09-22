@@ -86,9 +86,15 @@ A 3 hour e-bike tour along the coastal pathway from Costa Teguise, through Arrec
 Beginner-friendly.
 
 
-### Intro to Wing-foiling / Windsurfing - 50€
+### Intro to Wing-foiling / Windsurfing - 80€
 
-Walk down to the beach and do a 3-hour intro lesson to the new sport of Wing-foiling at the local windsurfing school.
+Walk down to the beach and do a 1.5-hour intro lesson to the new sport of Wing-foiling at the local school.
+
+Beginner friendly.
+
+### Intro to Windsurfing - 45€
+
+Walk down to the beach and do a 1.5-hour intro lesson to the new sport of Windsurfing at the local school.
 
 Beginner friendly.
 
