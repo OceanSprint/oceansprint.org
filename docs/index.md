@@ -124,36 +124,36 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ## 🧑 Participants
 
-- Jörg Thalheim
-- Jonas Chevalier
-- Valentin Gagarin
-- David Hauer
-- Jezen Thomas
-- Julian Stecklina
-- Tom Sydney Kerckhove
-- Laurens Duijvesteijn
-- Michael Schneider
+- Alejandro Sanchez Medina
 - Arian
+- Chloe Kever
+- David Hauer
+- Florian Klink
+- Gabriel Doriath Döhler
+- Ilan Joselevich
 - Jacek Galowicz
-- Sergei Kozlukov
-- Sander Melnikov
+- Jean-François Roche
+- Jezen Thomas
+- Johannes Kirschbauer
+- Jonas Chevalier
+- Jörg Thalheim
+- Julian Stecklina
 - Julien Malka
 - lassulus
-- Jean-François Roche
-- Paul Haerle
-- Ilan Joselevich
-- Florian Klink
-- Alejandro Sanchez Medina
-- Johannes Kirschbauer
-- Ryan Lahfa (RaitoBezarius)
-- Niklas Sturm
-- Gabriel Doriath Döhler
-- Tom Berek
-- Michael Hoang
-- Timothy DeHerrera
-- Marijan Petricevic
-- Chloe Kever
+- Laurens Duijvesteijn
 - Linus Heckemann
+- Marijan Petricevic
+- Michael Hoang
+- Michael Schneider
+- Niklas Sturm
+- Paul Haerle
+- Ryan Lahfa (RaitoBezarius)
+- Sander Melnikov
+- Sergei Kozlukov
+- Timothy DeHerrera
+- Tom Berek
+- Tom Sydney Kerckhove
+- Valentin Gagarin
 
 ## 🎖️ Organizers
 
