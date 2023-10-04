@@ -29,7 +29,8 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 12AM: lunch
 - 3PM: venue closes
 - 3PM: large activity, ideally everyone
-- 8PM: dinner outside at TODO
+- 7PM: dinner outside at [Smokehouse](https://maps.app.goo.gl/x7WjGVh9x16ctfgG9)
+- 9PM: bonfire
 
 ## Tuesday
 
@@ -37,7 +38,8 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 9AM: breakfast
 - 12AM: lunch
 - 3PM: activity
-- 7PM: standup & pizza @ venue
+- 7PM: standup
+- 7-9PM: napoli pizza night
 - 10PM: venue closes
 
 ## Friday
