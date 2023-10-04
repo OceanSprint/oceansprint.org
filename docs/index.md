@@ -150,7 +150,6 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Ryan Lahfa (RaitoBezarius)
 - Sander Melnikov
 - Sergei Kozlukov
-- Timothy DeHerrera
 - Tom Berek
 - Tom Sydney Kerckhove
 - Valentin Gagarin
