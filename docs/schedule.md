@@ -37,7 +37,7 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 9AM: breakfast
 - 12AM: lunch
 - 3PM: activity
-- 7PM: standup & dinner
+- 7PM: standup & pizza @ venue
 - 10PM: venue closes
 
 ## Friday
