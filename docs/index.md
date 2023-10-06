@@ -88,6 +88,8 @@ From the Lanzarote airport you can take a taxi to the venue, they have a flat ra
 - Cave sightseeing
 - Diving
 
+See [Activities](./activities.md) for the full list.
+
 ## 💙 Sponsors
 
 We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
