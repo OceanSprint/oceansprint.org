@@ -62,11 +62,15 @@ Closed.
 
 To be determined once registration closes based on attendees interest.
 
-## 🛬 Travel
+## 🛬 How to get here
 
-The best way to travel is [via a plane to Lanzarote airport](https://www.google.com/travel/flights/search?tfs=CBwQAhojagwIAxIIL20vMDk0N2wSCjIwMjEtMTEtMjdyBwgBEgNBQ0UaI2oHCAESA0FDRRIKMjAyMS0xMi0wM3IMCAMSCC9tLzA5NDdscAGCAQsI____________AUABSAGYAQE). 
+The best way to travel is [via a plane to Lanzarote airport](https://www.flightconnections.com/flights-to-lanzarote-arrecife-ace). 
 
-It's also possible to fly to other island airports and then take a short flight or a ferry (Fuertaventura is closest being 30min away).
+It's also possible to fly to other island airports and then take a short flight. Fuertaventura is closest being 30min away with a ferry.
+
+From the Lanzarote airport you can take a taxi to the venue, they have a flat rate and it should be around 20-25 EUR.
+
+[Renting a car](https://autoreisen.com/) is usually quite cheap, around 100-150 eur for the week.
 
 ## 🥳 Stuff to do on Lanzarote
 
