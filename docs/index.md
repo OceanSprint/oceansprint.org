@@ -134,6 +134,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 - Arian
 - Chloe Kever
 - David Hauer
+- edef
 - Florian Klink
 - Gabriel Doriath Döhler
 - Ilan Joselevich
