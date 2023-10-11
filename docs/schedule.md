@@ -21,7 +21,7 @@ Welcome party at 7PM at [La Tabla](https://maps.app.goo.gl/FPRX4NZy4LkGmcFX6).
 - 1PM: lunch
 - 3PM: activity
 - 7PM: standup
-- 7PM: [Luis Guachinche](https://maps.app.goo.gl/aWmjG5qkFbmBYRKr6) paella @ vanue
+- 7PM: [Luis Guachinche](https://maps.app.goo.gl/aWmjG5qkFbmBYRKr6) paella @ venue
 - 10PM: venue closes
 
 ## Wednesday
