@@ -29,8 +29,8 @@ Welcome party at 7PM outside at [La Tabla](https://maps.app.goo.gl/FPRX4NZy4LkGm
 - 8AM: venue opens, cleaning
 - 9AM: breakfast
 - 1PM: lunch
-- 1:30PM: sailing trip
-- 9PM: bonfire
+- 1:30PM: sailing trip with drinks & snacks
+- 9PM: bonfire with BYOB
 
 ## Thursday
 
