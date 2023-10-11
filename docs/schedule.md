@@ -6,7 +6,7 @@ Welcome party at 7PM at [La Tabla](https://maps.app.goo.gl/FPRX4NZy4LkGmcFX6).
 
 ## Monday
 
-- 8AM: [venue](https://house.niteo.co/) opens
+- 8AM: [Sprint Venue](https://house.niteo.co/) opens
 - 9AM: breakfast
 - 1PM: lunch
 - 3PM: activity
