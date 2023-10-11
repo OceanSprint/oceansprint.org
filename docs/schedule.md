@@ -2,7 +2,7 @@
 
 ## Sunday
 
-Welcome party from 4PM to 11PM outside at TODO.
+Welcome party at 7PM outside at [La Tabla](https://maps.app.goo.gl/FPRX4NZy4LkGmcFX6).
 
 ## Monday
 
@@ -10,7 +10,8 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 9AM: breakfast
 - 12AM: lunch
 - 3PM: activity
-- 7PM: standup & dinner
+- 7PM: standup 
+- 7PM: Tuna grill night
 - 10PM: venue closes
 
 ## Tuesday
@@ -19,7 +20,8 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 9AM: breakfast
 - 12AM: lunch
 - 3PM: activity
-- 7PM: standup & dinner
+- 7PM: standup
+- 7PM: [Luis Guachinche](https://maps.app.goo.gl/aWmjG5qkFbmBYRKr6) catering
 - 10PM: venue closes
 
 ## Wednesday
@@ -27,17 +29,17 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 8AM: venue opens, cleaning
 - 9AM: breakfast
 - 12AM: lunch
-- 3PM: venue closes
-- 3PM: large activity, ideally everyone
-- 8PM: dinner outside at TODO
+- 1:30PM: sailing trip
+- 9PM: bonfire
 
-## Tuesday
+## Thursday
 
 - 8AM: venue opens, cleaning
 - 9AM: breakfast
 - 12AM: lunch
 - 3PM: activity
-- 7PM: standup & pizza @ venue
+- 7PM: standup
+- 7PM: Napoli pizza @ venue
 - 10PM: venue closes
 
 ## Friday
@@ -45,6 +47,6 @@ Welcome party from 4PM to 11PM outside at TODO.
 - 8AM: venue opens, cleaning
 - 9AM: breakfast
 - 12AM: lunch
-- 3PM: sprint wrapup
-- 4PM: venue closes
-- 6PM: farewell dinner outside at TODO
+- 2PM: sprint wrap up
+- 3PM: venue closes, wine tasting at [Bodega Stratvs](https://stratvs.com/)
+- 7PM: farewell dinner outside at [La Tavernetta](https://maps.app.goo.gl/4cvTr3c2DYHaGvUT6)
