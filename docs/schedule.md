@@ -30,7 +30,7 @@ Welcome party at 7PM at [La Tabla](https://maps.app.goo.gl/FPRX4NZy4LkGmcFX6).
 - 9AM: breakfast
 - 12PM: lunch
 - 1PM: venue closes, leave for sailing trip
-- 9PM: bonfire in the dessert
+- 9PM: bonfire in the desert
 
 ## Thursday
 
