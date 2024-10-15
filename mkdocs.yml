@@ -67,5 +67,3 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist
-extra_javascript:
-  - formbricks.js

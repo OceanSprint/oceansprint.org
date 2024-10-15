@@ -56,7 +56,7 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## 🔥 Registration
 
-[Fill out the form to apply](#).
+[Fill out the form to apply](https://app.formbricks.com/s/cm2ambioh0002ded5b0ymqet3).
 
 The deadline is 17th December, you'll be notified if you're part of the sprint a few days later.
 
