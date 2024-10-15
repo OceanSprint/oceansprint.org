@@ -3,6 +3,6 @@
 ## Contributing
 
 ```shell-session
-$ nix profile install --accept-flake-config tarball+https://install.devenv.sh/latest
+$ nix profile install --accept-flake-config nixpkgs#devenv
 $ devenv up
 ```
