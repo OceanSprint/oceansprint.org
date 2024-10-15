@@ -1,9 +1,9 @@
 site_name: oceansprint.org
-site_description: 'A week of Nix hacking near the ocean'
-site_url: 'https://oceansprint.org'
-repo_name: 'oceansprint/oceansprint.org'
-repo_url: 'https://github.com/oceansprint/oceansprint.org'
-edit_uri: 'edit/main/docs'
+site_description: "A week of Nix hacking near the ocean"
+site_url: "https://oceansprint.org"
+repo_name: "oceansprint/oceansprint.org"
+repo_url: "https://github.com/oceansprint/oceansprint.org"
+edit_uri: "edit/main/docs"
 theme:
   name: material
   logo: assets/logo.png
@@ -12,7 +12,7 @@ theme:
     repo: fontawesome/brands/github
   palette:
     primary: white
-    accent: '#FBFBFB'
+    accent: "#FBFBFB"
   features:
     - tabs
     - instant
@@ -27,14 +27,14 @@ theme:
 nav:
   - Home: index.md
   - News:
-    - blog/index.md
+      - blog/index.md
   - Accomodation: accomodation.md
   - Schedule: schedule.md
   - Activities: activities.md
   - Past events:
-    - oceansprint-2022 November: 2022-november.md
-    - oceansprint-2022 April: 2022-april.md
-    - oceansprint-2021: 2021.md
+      - oceansprint-2022 November: 2022-november.md
+      - oceansprint-2022 April: 2022-april.md
+      - oceansprint-2021: 2021.md
 copyright: Copyright &copy; 2021 - 2023 <a href="https://niteo.co/">Niteo</a> & <a href="https://cachix.org">Cachix</a>
 plugins:
   blog: {}
@@ -44,14 +44,14 @@ plugins:
       color: "#425C82"
   rss:
     use_git: false
-    match_path: blog/posts/.* 
+    match_path: blog/posts/.*
     date_from_meta:
       as_creation: date
       as_update: date
 
 extra:
   social:
-    - icon: fontawesome/brands/github 
+    - icon: fontawesome/brands/github
       link: https://github.com/oceansprint/oceansprint.org
   generator: false
 markdown_extensions:
@@ -65,5 +65,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - pymdownx.tasklist
+extra_javascript:
+  - formbricks.js
