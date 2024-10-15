@@ -56,7 +56,9 @@ There are a ton of options for dinners in nearby restaurants.
 
 ## 🔥 Registration
 
-Closed.
+[Fill out the form to apply](#).
+
+The deadline is 17th December, you'll be notified if you're part of the sprint a few days later.
 
 ## 🧵 Topics
 

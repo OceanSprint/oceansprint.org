@@ -1,0 +1,1 @@
+!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://app.formbricks.com/js/formbricks.umd.cjs";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "cm2amai4k000jtlhkob02c5ej", apiHost: "https://app.formbricks.com"})},500)}();
