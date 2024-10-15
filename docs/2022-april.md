@@ -16,7 +16,7 @@ After [the successful sprint in 2021](https://2021.oceansprint.org/), we’re do
 
 [Costa Tequise, Lanzarote](https://goo.gl/maps/etSV5TSRLdFtDAX67)
 
-The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool. 
+The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool.
 
 Withing a 5 minute walk you can reach:
 
@@ -39,7 +39,7 @@ If you are planning to come with your family and/or stay longer, @Nejc Zupan has
 
 ## Food
 
-We'll organize catering (breakfast and lunch) during the sprint. 
+We'll organize catering (breakfast and lunch) during the sprint.
 
 There are a ton of options for dinners in nearby restaurants.
 
@@ -145,12 +145,6 @@ A software innovation lab that helps deep tech startup
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
 - Nejc Zupan, recently converted NixOS evangelist, organizer of Sauna Sprint
 
-## COVID-19
-
-It's highly recommended that you vaccinate before coming to the sprint.
-
-We will be staying outside most of the time. We'll be renting a pavilion tent for protection against the sun and the unfortunate droplet of rain. 
-
-The temperature drops to a minimum of 15 C outside during the night so it's possible to have windows open.
-
-Spain takes the pandemic very seriously, make sure to check up to date requirements before traveling.
+<script type="text/javascript">
+!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://app.formbricks.com/js/formbricks.umd.cjs";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "cm2amai4k000jtlhkob02c5ej", apiHost: "https://app.formbricks.com"})},500)}();
+</script>
