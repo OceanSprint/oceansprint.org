@@ -4,14 +4,14 @@
 
 :    A week of intense hacking [on Nix](https://nix.dev) near the ocean.
 
-*When*          
-:    16/10/2023 - 20/10/2023 (Mon - Fri)  
+*When*
+:    17/03/2025 - 21/03/2025 (Mon - Fri)
 
 *Where*
 :    [Villa with FTTH on Lanzarote, Canary Islands.](https://house.niteo.co/)
 
-*Who* 
-:    ~30 developers.
+*Who*
+:    ~25 developers.
 
 ## 📍 Location
 
@@ -64,7 +64,7 @@ To be determined once registration closes based on attendees interest.
 
 ## 🛬 How to get here
 
-The best way to travel is [via a plane to Lanzarote airport](https://www.flightconnections.com/flights-to-lanzarote-arrecife-ace). 
+The best way to travel is [via a plane to Lanzarote airport](https://www.flightconnections.com/flights-to-lanzarote-arrecife-ace).
 
 It's also possible to fly to other island airports and then take a short flight. Fuertaventura is closest being 30min away with a ferry.
 
@@ -104,65 +104,9 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 | Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       |
 
-### 🏆 Gold
-
-![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
-![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
-![secunet](./assets/logos/secunet.svg){: style="width:400px; margin:20px"}
-![nixos](./assets/logos/nixos.svg){: style="width:400px; margin:20px"}
-![casper](./assets/logos/casper.svg){: style="width:400px; margin:20px"}
-
-### 🏢 Company
-
-![Cyberus Technology](./assets/logos/cyberus.svg){: style="width:250px; margin:20px"}
-![Flox](./assets/logos/flox.svg){: style="width:250px; margin:20px"}
-![Flokli](./assets/logos/flokli.svg){: style="width:250px; margin:20px"}
-![Namespace Labs](./assets/logos/namespace.svg){: style="width:250px; margin:20px"}
-![supercede](./assets/logos/supercede.svg){: style="width:250px; margin:20px"}
-
-### 💻 Individual
-
-![Hercules CI](./assets/2022-2/hercules-logo-rendered-960.png){: style="width:200px; margin:20px"}
-![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"}
-
-- Ryan Hill
-
-
 ## 🧑 Participants
-
-- Alejandro Sanchez Medina
-- Arian
-- Chloe Kever
-- David Hauer
-- edef
-- Florian Klink
-- Gabriel Doriath Döhler
-- Ilan Joselevich
-- Jacek Galowicz
-- Jean-François Roche
-- Jezen Thomas
-- Johannes Kirschbauer
-- Jonas Chevalier
-- Jörg Thalheim
-- Julian Stecklina
-- Julien Malka
-- lassulus
-- Laurens Duijvesteijn
-- Linus Heckemann
-- Marijan Petricevic
-- Michael Hoang
-- Michael Schneider
-- Niklas Sturm
-- Paul Haerle
-- Ryan Lahfa (RaitoBezarius)
-- Sander Melnikov
-- Sergei Kozlukov
-- Tom Berek
-- Tom Sydney Kerckhove
-- Valentin Gagarin
 
 ## 🎖️ Organizers
 
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
 - Nejc Zupan, recently converted NixOS evangelist, organizer of Sauna Sprint
-- Florian Friesdorf, long time contributor to NixOS
