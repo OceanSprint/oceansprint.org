@@ -106,8 +106,6 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 | Company    | 1500               | Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | Individual | 500                | Logo on the website.                                                                       |
 
-## 🧑 Participants
-
 ## 🎖️ Organizers
 
 - Domen Kožar, long time contributor to NixOS, organizer of Zidanca Sprint
