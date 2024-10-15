@@ -1,4 +1,4 @@
-# NixOS Ocean Sprint 2023
+# NixOS Ocean Sprint 2025
 
 *What*
 
