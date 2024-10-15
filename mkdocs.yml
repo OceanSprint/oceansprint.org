@@ -36,7 +36,7 @@ nav:
       - oceansprint-2022 November: 2022-november.md
       - oceansprint-2022 April: 2022-april.md
       - oceansprint-2021 December: 2021.md
-copyright: Copyright &copy; 2021 - 2023 <a href="https://niteo.co/">Niteo</a> & <a href="https://cachix.org">Cachix</a>
+copyright: Copyright &copy; 2021 - 2024 <a href="https://niteo.co/">Niteo</a> & <a href="https://cachix.org">Cachix</a>
 plugins:
   blog: {}
   social:
