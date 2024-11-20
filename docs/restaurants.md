@@ -25,4 +25,4 @@
 
 ## La Santa
 
-- [Alma Tapas]https://maps.app.goo.gl/TNjP5VZbSxvTC9Ee8): High-end restaurant in French style, amazing.
+- [Alma Tapas](https://maps.app.goo.gl/TNjP5VZbSxvTC9Ee8): High-end restaurant in French style, amazing.
