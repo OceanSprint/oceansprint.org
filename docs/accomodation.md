@@ -2,6 +2,11 @@
 
 *The recommendations below are based on our personal experience. There are also plenty of options on AirBnb and [Booking.com](http://Booking.com/).* 
 
+## Villasun
+
+Privately owned villas in the same street as Niteo House, the sprint venue. 1 to 5 minute walk away. Before booking, confirm with the owner how far is the distance to Niteo House. They are not listed on airbnb/booking.com, you need to book directly on their website: https://www.villasun.net/
+
+
 ## Senator residence
 
 > 5 mins walk to the villa. Recently renovated apartment complex with good facilities including kitchen with a dishwasher, a washing machine, and a terrace. There is a chilly shared pool with sun beds, surrounded by a small well maintained garden. The complex is a bit remote from the downtown and the beach (15-20 mins walk) so it has quiet, relaxed vibe. The sunsets are amazing in Senator!
