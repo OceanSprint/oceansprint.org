@@ -68,11 +68,11 @@ To be determined once registration closes based on attendees interest.
 
 The best way to travel is [via a plane to Lanzarote airport](https://www.flightconnections.com/flights-to-lanzarote-arrecife-ace).
 
-It's also possible to fly to other island airports and then take a short flight. Fuertaventura is closest being 30min away with a ferry.
+Flights from other Canary Islands (Tenerife/Gran Canaria) are cheap. Flights from Madrid and Barcelona are even cheaper, around 20 EUR.
 
 From the Lanzarote airport you can take a taxi to the venue, they have a flat rate and it should be around 20-25 EUR.
 
-[Renting a car](https://autoreisen.com/) is usually quite cheap, around 100-150 eur for the week.
+[Renting a car](https://autoreisen.com/) is usually quite cheap, around 200-350 eur for the week.
 
 ## 🥳 Stuff to do on Lanzarote
 
