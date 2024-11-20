@@ -5,7 +5,7 @@
 :    A week of intense hacking [on Nix](https://nix.dev) near the ocean.
 
 *When*
-:    16/03/2025 - 21/03/2025 (Mon - Fri)
+:    16/03/2025 - 21/03/2025 (Sun - Fri)
 
 *Where*
 :    [Villa with FTTH on Lanzarote, Canary Islands.](https://house.niteo.co/)
