@@ -5,7 +5,7 @@ Participants' summary:
 * [Alejandro](https://github.com/alejandrosame) worked on [jupiterWith](https://github.com/tweag/jupyterWith) and [made an integration](https://github.com/alejandrosame/devenv/tree/bug-devenv_up-jupyterWith) for [devenv.sh](https://devenv.sh). He also made a [starship](https://starship.rs/) module for devenv and worked with [Max](https://github.com/max-privatevoid) on [NixPak](https://github.com/nixpak/nixpak). You can read his [sprint report](https://git.sr.ht/~alejandrosame/posts/tree/main/item/nixos/20221201-ocean_sprint_report/post.md?view-rendered) for more details.
 
 * [Ryan](https://github.com/RaitoBezarius), [Niklas](https://github.com/nikstur) and [Julian](https://x86.lol/) worked [on bringing Secure Boot to NixOS](https://x86.lol/generic/2022/11/26/lanzaboote.html)
-and succeeded doing so, releasing [lanzaboote](https://github.com/blitz/lanzaboote).
+and succeeded doing so, releasing [lanzaboote](https://github.com/blitz/lanzaboote). They later [gave a talk](https://archive.fosdem.org/2023/schedule/event/nix_and_nixos_towards_secure_boot/) about it.
 
 * [Sander](https://sandydoo.me/) and [Arian](https://functional.cafe/@arianvp) added [a new `virtualisation.rosetta` module](https://github.com/NixOS/nixpkgs/pull/202847) for virtualised NixOS guests on Apple silicon, which transparently translates `x86_64` binaries through Rosetta.
 
