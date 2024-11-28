@@ -109,6 +109,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 ### 🏆 Gold
 
 ![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
+![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
 
 ### 🏢 Company
 
