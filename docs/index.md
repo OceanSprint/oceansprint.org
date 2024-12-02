@@ -110,10 +110,13 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 
 ![numtide](./assets/logos/numtide.svg){: style="width:400px; margin:20px"}
 ![mercury](./assets/logos/mercury.svg){: style="width:400px; margin:20px"}
+![secunet](./assets/logos/secunet.svg){: style="width:400px; margin:20px"}
 
 ### 🏢 Company
 
+![flox](./assets/logos/flox.svg){: style="width:200px; margin:20px"}
 ![Nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"}
+![nixos](./assets/logos/nixos.svg){: style="width:200px; margin:20px"}
 
 ## 🎖️ Organizers
 
