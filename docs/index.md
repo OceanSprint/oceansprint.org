@@ -1,4 +1,4 @@
-# NixOS Ocean Sprint 2025
+# Ocean Sprint 2025
 
 *What*
 
