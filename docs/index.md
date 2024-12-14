@@ -19,7 +19,7 @@
 
 The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool.
 
-Withing a 5 minute walk you can reach:
+Within a 5 minute walk you can reach:
 
 - one of the best beaches in Lanzarote, where you can swim, jog, snorkel, SUP, surf and windsurf,
 - a local supermarket that is open every day from 8AM to 10PM,
