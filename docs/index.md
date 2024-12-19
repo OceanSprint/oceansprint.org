@@ -92,6 +92,36 @@ From the Lanzarote airport you can take a taxi to the venue, they have a flat ra
 
 See [Activities](./activities.md) for the full list.
 
+## 🧑 Participants
+
+- Maximilian Bosch
+- Benedikt Ritter
+- Adam Szucs-Matyas
+- Vova Kryachko
+- Collin Arnett
+- Robert Hensing
+- Matej Urbas
+- Shahar Or
+- SomeoneSerge
+- Adrian Gierakowski
+- Alexander Foremny
+- edef
+- Julien Malka
+- Paul Meyer
+- Las Safin
+- Ryan Lahfa
+- Ilan Joselevich
+- Julian Stecklina
+- Arian
+- Florian Klink
+- Benoit de Chezelles
+- Ólafur Bjarki Bogason
+- Joe Kachmar
+- Johannes Kirschbauer
+- Niklas Sturm
+- Jacek Galowicz
+- Boros Márton
+
 ## 💙 Sponsors
 
 We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.
