@@ -147,7 +147,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 ### 🏢 Company
 
 ![nixcademy](./assets/logos/nixcademy.svg){: style="width:200px; margin:20px"}
-![cyberus](./assets/logos/cyberus.svg){: style="width:200px; margin:20px"}
+![cyberus](./assets/logos/cyberus.png){: style="width:200px; margin:20px"}
 ![flox](./assets/logos/flox.svg){: style="width:200px; margin:20px"}
 ![nixos](./assets/logos/nixos.svg){: style="width:200px; margin:20px"}
 
