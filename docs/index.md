@@ -94,33 +94,36 @@ See [Activities](./activities.md) for the full list.
 
 ## 🧑 Participants
 
-- Maximilian Bosch
-- Benedikt Ritter
-- Adam Szucs-Matyas
-- Vova Kryachko
-- Collin Arnett
-- Robert Hensing
-- Matej Urbas
-- Shahar Or
+- adisbladis
+- willibutz
+- fricklerhandwerk
+- joshheinrichs-shopify
+- ma27
+- @britter
+- szucsitg
+- vkryachko@
+- collinarnett
+- roberth
+- mightyiam
 - SomeoneSerge
-- Adrian Gierakowski
-- Alexander Foremny
-- edef
-- Julien Malka
-- Paul Meyer
-- Las Safin
-- Ryan Lahfa
-- Ilan Joselevich
-- Julian Stecklina
-- Arian
-- Florian Klink
-- Benoit de Chezelles
-- Ólafur Bjarki Bogason
-- Joe Kachmar
-- Johannes Kirschbauer
-- Niklas Sturm
-- Jacek Galowicz
-- Boros Márton
+- adrian-gierakowski
+- aforemny
+- edef1c
+- JulienMalka
+- katexochen
+- L-as
+- RaitoBezarius
+- Kranzes
+- blitz
+- @arianvp
+- flokli
+- @bew
+- multivac61
+- jkachmar
+- hsjobeki
+- @nikstur
+- tfc
+- brainrake
 
 ## 💙 Sponsors
 
