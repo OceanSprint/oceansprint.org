@@ -94,33 +94,36 @@ See [Activities](./activities.md) for the full list.
 
 ## 🧑 Participants
 
-- Maximilian Bosch
-- Benedikt Ritter
-- Adam Szucs-Matyas
-- Vova Kryachko
-- Collin Arnett
-- Robert Hensing
-- Matej Urbas
-- Shahar Or
-- SomeoneSerge
-- Adrian Gierakowski
-- Alexander Foremny
-- edef
-- Julien Malka
-- Paul Meyer
-- Las Safin
-- Ryan Lahfa
-- Ilan Joselevich
-- Julian Stecklina
-- Arian
-- Florian Klink
-- Benoit de Chezelles
-- Ólafur Bjarki Bogason
-- Joe Kachmar
-- Johannes Kirschbauer
-- Niklas Sturm
-- Jacek Galowicz
-- Boros Márton
+- [adisbladis](https://github.com/adisbladis)
+- [willibutz](https://github.com/willibutz)
+- [fricklerhandwerk](https://github.com/fricklerhandwerk)
+- [joshheinrichs-shopify](https://github.com/joshheinrichs-shopify)
+- [ma27](https://github.com/ma27)
+- [@britter](https://github.com/@britter)
+- [szucsitg](https://github.com/szucsitg)
+- [vkryachko@](https://github.com/vkryachko@)
+- [collinarnett](https://github.com/collinarnett)
+- [roberth](https://github.com/roberth)
+- [mightyiam](https://github.com/mightyiam)
+- [SomeoneSerge](https://github.com/SomeoneSerge)
+- [adrian-gierakowski](https://github.com/adrian-gierakowski)
+- [aforemny](https://github.com/aforemny)
+- [edef1c](https://github.com/edef1c)
+- [JulienMalka](https://github.com/JulienMalka)
+- [katexochen](https://github.com/katexochen)
+- [L-as](https://github.com/L-as)
+- [RaitoBezarius](https://github.com/RaitoBezarius)
+- [Kranzes](https://github.com/Kranzes)
+- [blitz](https://github.com/blitz)
+- [@arianvp](https://github.com/@arianvp)
+- [flokli](https://github.com/flokli)
+- [@bew](https://github.com/@bew)
+- [multivac61](https://github.com/multivac61)
+- [jkachmar](https://github.com/jkachmar)
+- [hsjobeki](https://github.com/hsjobeki)
+- [@nikstur](https://github.com/@nikstur)
+- [tfc](https://github.com/tfc)
+- [brainrake](https://github.com/brainrake)
 
 ## 💙 Sponsors
 
