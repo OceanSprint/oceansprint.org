@@ -123,7 +123,7 @@ See [Activities](./activities.md) for the full list.
 - @hsjobeki
 - @nikstur
 - @tfc
-- @brainrake
+- [@brainrake](https://github.com/brainrake)
 
 ## 💙 Sponsors
 
