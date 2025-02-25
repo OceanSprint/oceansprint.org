@@ -22,6 +22,7 @@ Pickup by vans at the sprint venue and leave for Famara, the surfing mecca of La
 
 Beginner-friendly.
 
+
 ### Bonfire Night in the Desert - free
 
 A night under the stars with a bonfire in the middle of a vulcano. 
@@ -37,12 +38,6 @@ The idea: an instrument for everybody, whether they know how to play it or not a
 Originally from Argentina, Karina is our percussionist, playing congas and cajon, along with a variety of other percussion instruments in our live gigs, including, cymbals, chimes and rain stick among others. Karina is a teacher of percussion and a serial collector of percussion instruments, she brings a great flavour to our folk music.
 
 ## Recommended
-
-
-### Sailing with catamaran - 50€
-
-Enjoy the ocean vibes and scenic views during a few hour catamaran excursion at sunset
-with drinks and tapas.
 
 ### The Morning Dip - free
 
