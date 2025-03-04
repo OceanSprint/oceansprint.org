@@ -154,6 +154,7 @@ Our target budget is 15000 EUR. Reach out to [sponsors@oceansprint.org](mailto:s
 ![flox](./assets/logos/flox.svg){: style="width:200px; margin:20px"}
 ![nixos](./assets/logos/nixos.svg){: style="width:200px; margin:20px"}
 ![flyingcircus](./assets/logos/flying_circus.svg){: style="width:200px; margin:20px"}
+![supercede](./assets/logos/supercede.svg){: style="width:200px; margin:20px"}
 
 ## 🎖️ Organizers
 
