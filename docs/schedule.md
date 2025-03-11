@@ -21,7 +21,7 @@
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
 |              | 11:30 PM  | Lunch Catering         | Niteo House                                                         |
 |              | 12:30 PM  | Group Activity         | [Surfing](https://maps.app.goo.gl/GUSd7PpbDuXxutyi8)                |
-               | 4:00 PM   | Trip                   | [Wine tour](https://maps.app.goo.gl/RV6hmQJJhcQk6EH5A)              |
+|              | 4:00 PM   | Trip                   | [Wine tour](https://maps.app.goo.gl/RV6hmQJJhcQk6EH5A)              |
 |              | 7:00 PM   | Dinner Party           | [La Ola](https://maps.app.goo.gl/yxTBkXBpZdaKxZ9s5)                 |
 | **Thursday** | 8:00 AM   | Venue Opens            | Niteo House                                                         |
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
