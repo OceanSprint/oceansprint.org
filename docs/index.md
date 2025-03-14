@@ -107,7 +107,7 @@ See [Activities](./activities.md) for the full list.
 - [@flokli](https://github.com/flokli)
 - [@fricklerhandwerk](https://github.com/fricklerhandwerk)
 - [@hsjobeki](https://github.com/hsjobeki)
-- [@jkachmar](https://github.com/jkachmar)
+- [@sandydoo](https://github.com/sandydoo)
 - [@joshheinrichs-shopify](https://github.com/joshheinrichs-shopify)
 - [@JulienMalka](https://github.com/JulienMalka)
 - [@katexochen](https://github.com/katexochen)
