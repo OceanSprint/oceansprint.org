@@ -15,7 +15,7 @@
 
 ## 📍 Location
 
-[Niteo House, Costa Tequise, Lanzarote]([https://goo.gl/maps/etSV5TSRLdFtDAX67](https://maps.app.goo.gl/eoCiZ5YNsk9iyxWq7))
+[Niteo House, Costa Tequise, Lanzarote](https://maps.app.goo.gl/eoCiZ5YNsk9iyxWq7)
 
 The sprint will take place outside under pavilion tents (for sunshine protection) in a villa with a pool.
 
