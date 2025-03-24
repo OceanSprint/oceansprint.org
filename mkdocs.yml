@@ -18,6 +18,7 @@ theme:
     - tabs
     - instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - navigation.instant
     - navigation.tracking
