@@ -62,9 +62,9 @@
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-  <img src="assets/2022-2/4E4777C1-52FD-4E50-B898-DD5736A2DC22_1_105_c.jpg" alt="Location view" class="rounded-md">
-  <img src="assets/2022-2/91E58F1A-4D28-44FF-8AF6-575DC2225737_1_105_c.jpg" alt="Location view" class="rounded-md">
-  <img src="assets/2022-2/97E6581A-B5B1-4965-A0DA-FE3294E779BA_1_105_c.jpg" alt="Location view" class="rounded-md">
+  <img src="/assets/2022-2/4E4777C1-52FD-4E50-B898-DD5736A2DC22_1_105_c.jpg" alt="Location view" class="rounded-md">
+  <img src="/assets/2022-2/91E58F1A-4D28-44FF-8AF6-575DC2225737_1_105_c.jpg" alt="Location view" class="rounded-md">
+  <img src="/assets/2022-2/97E6581A-B5B1-4965-A0DA-FE3294E779BA_1_105_c.jpg" alt="Location view" class="rounded-md">
 </div>
 
 ## Accommodation
