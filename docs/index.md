@@ -19,7 +19,7 @@
       <div class="space-y-6">
         <div>
           <h3 class="font-medium text-white text-opacity-70 uppercase text-sm tracking-wider mb-1">When</h3>
-          <p class="text-lg">16/03/2025 - 21/03/2025</p>
+          <p class="text-lg"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nix+OceanSprint+2025&dates=20250316/20250322&location=Lanzarote,+Canary+Islands&details=A+week+of+Nix+hacking+near+the+ocean" class="text-white hover:underline" target="_blank">16/03/2025 - 21/03/2025</a></p>
           <p class="text-sm text-white text-opacity-70">Sunday to Friday</p>
         </div>
         
