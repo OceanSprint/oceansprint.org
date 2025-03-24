@@ -1,4 +1,4 @@
-site_name: oceansprint.org
+site_name: Ocean Sprint
 site_description: "A week of Nix hacking near the ocean"
 site_url: "https://oceansprint.org"
 repo_name: "oceansprint/oceansprint.org"
@@ -11,12 +11,14 @@ theme:
   icon:
     repo: fontawesome/brands/github
   palette:
-    primary: white
-    accent: "#FBFBFB"
+    scheme: default
+    primary: indigo
+    accent: cyan
   features:
     - tabs
     - instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - navigation.instant
     - navigation.tracking
@@ -24,6 +26,10 @@ theme:
     - content.code.annotate
     - content.tabs.link
     - toc.integrate
+  custom_dir: docs/overrides
+extra_css:
+  - https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 nav:
   - Home: index.md
   - Accomodation: accomodation.md
