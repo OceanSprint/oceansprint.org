@@ -26,7 +26,7 @@
         <div>
           <h3 class="font-medium text-white text-opacity-70 uppercase text-sm tracking-wider mb-1">Where</h3>
           <p class="text-lg">Lanzarote, Canary Islands</p>
-          <p class="text-sm text-white text-opacity-70"><a href="https://house.niteo.co/" class="underline hover:text-white">Oceanfront Villa with FTTH</a></p>
+          <p class="text-sm text-white text-opacity-70"><a href="https://house.niteo.co/" class="underline text-white hover:text-white">Oceanfront Villa with FTTH</a></p>
         </div>
         
         <div>
