@@ -325,29 +325,29 @@
   
   <div class="border-t border-gray-100 pt-6 mb-6">
     <div class="overflow-x-auto">
-      <table class="min-w-full">
+      <table class="min-w-full border-collapse">
         <thead>
-          <tr>
-            <th class="pb-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Level</th>
-            <th class="pb-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Contribution (EUR)</th>
-            <th class="pb-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Perks</th>
+          <tr class="border-b border-gray-200">
+            <th class="pb-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider border-r border-gray-100">Level</th>
+            <th class="pb-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider border-r border-gray-100">Contribution (EUR)</th>
+            <th class="pb-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Perks</th>
           </tr>
         </thead>
         <tbody class="divide-y divide-gray-100">
           <tr>
-            <td class="py-3 text-gray-900">Gold</td>
-            <td class="py-3 text-gray-700">4000</td>
-            <td class="py-3 text-gray-700">Company + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG.</td>
+            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Gold</td>
+            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">4000</td>
+            <td class="py-3 px-4 text-gray-700">Company + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG.</td>
           </tr>
           <tr>
-            <td class="py-3 text-gray-900">Company</td>
-            <td class="py-3 text-gray-700">1500</td>
-            <td class="py-3 text-gray-700">Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.</td>
+            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Company</td>
+            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">1500</td>
+            <td class="py-3 px-4 text-gray-700">Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.</td>
           </tr>
           <tr>
-            <td class="py-3 text-gray-900">Individual</td>
-            <td class="py-3 text-gray-700">500</td>
-            <td class="py-3 text-gray-700">Logo on the website.</td>
+            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Individual</td>
+            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">500</td>
+            <td class="py-3 px-4 text-gray-700">Logo on the website.</td>
           </tr>
         </tbody>
       </table>
