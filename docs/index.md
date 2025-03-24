@@ -9,7 +9,7 @@
         <a href="https://app.formbricks.com/s/cm2ambioh0002ded5b0ymqet3" class="bg-white text-primary font-medium py-2 px-5 rounded-md hover:bg-gray-100 transition duration-200">
           Apply Now
         </a>
-        <a href="#schedule" class="border border-white text-white font-medium py-2 px-5 rounded-md hover:bg-white hover:bg-opacity-10 transition duration-200">
+        <a href="/schedule/" class="border border-white text-white font-medium py-2 px-5 rounded-md hover:bg-white hover:bg-opacity-10 transition duration-200">
           View Schedule
         </a>
       </div>
