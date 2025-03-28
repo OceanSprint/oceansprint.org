@@ -425,7 +425,7 @@
       <img src="https://github.com/zupo.png" alt="Nejc Zupan" class="w-16 h-16 rounded-full mr-4 border border-gray-200">
       <div>
         <h4 class="font-medium text-gray-800 mb-1">Nejc Zupan</h4>
-        <p class="text-gray-600 text-sm mb-1">Recently converted NixOS evangelist, organizer of Sauna Sprint</p>
+        <p class="text-gray-600 text-sm mb-1">Recently converted Nix evangelist, author of <a href="https://paretosecurity.com/">Pareto Security</a></p>
         <a href="https://github.com/zupo" class="text-primary text-sm">
           @zupo
         </a>
