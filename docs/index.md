@@ -362,43 +362,43 @@
   
   <div class="border-t border-gray-100 pt-6">
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Gold Sponsors</h4>
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-6 mb-8">
-      <div class="flex items-center justify-center p-4 border border-gray-100">
-        <img src="./assets/logos/numtide.svg" alt="numtide" class="h-8 object-contain">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="./assets/logos/numtide.svg" alt="numtide" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-4 border border-gray-100">
-        <img src="./assets/logos/mercury.svg" alt="mercury" class="h-8 object-contain">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="./assets/logos/mercury.svg" alt="mercury" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-4 border border-gray-100">
-        <img src="./assets/logos/secunet.svg" alt="secunet" class="h-8 object-contain">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="./assets/logos/secunet.svg" alt="secunet" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-4 border border-gray-100">
-        <img src="./assets/logos/clan.svg" alt="clan.lol" class="h-8 object-contain">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="./assets/logos/clan.svg" alt="clan.lol" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-4 border border-gray-100">
-        <img src="./assets/logos/shopify.svg" alt="shopify" class="h-8 object-contain">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="./assets/logos/shopify.svg" alt="shopify" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-4 border border-gray-100">
-        <img src="./assets/logos/nixos.svg" alt="nixos" class="h-8 object-contain">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="./assets/logos/nixos.svg" alt="nixos" class="w-full h-full object-contain">
       </div>
     </div>
   
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Company Sponsors</h4>
-    <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
-      <div class="flex items-center justify-center p-3 border border-gray-100">
-        <img src="./assets/logos/nixcademy.svg" alt="nixcademy" class="h-6 object-contain">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="./assets/logos/nixcademy.svg" alt="nixcademy" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-3 border border-gray-100">
-        <img src="./assets/logos/cyberus.png" alt="cyberus" class="h-6 object-contain">
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="./assets/logos/cyberus.png" alt="cyberus" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-3 border border-gray-100">
-        <img src="./assets/logos/flox.svg" alt="flox" class="h-6 object-contain">
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="./assets/logos/flox.svg" alt="flox" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-3 border border-gray-100">
-        <img src="./assets/logos/flying_circus.svg" alt="flyingcircus" class="h-6 object-contain">
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="./assets/logos/flying_circus.svg" alt="flyingcircus" class="w-full h-full object-contain">
       </div>
-      <div class="flex items-center justify-center p-3 border border-gray-100">
-        <img src="./assets/logos/supercede.svg" alt="supercede" class="h-6 object-contain">
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="./assets/logos/supercede.svg" alt="supercede" class="w-full h-full object-contain">
       </div>
     </div>
   </div>
