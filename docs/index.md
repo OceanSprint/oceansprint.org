@@ -109,7 +109,6 @@
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
   <div class="mb-5">
-    <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-1">Apply to Join</h3>
     <p class="text-gray-800 mb-6">Apply now to secure your spot for this collaborative coding event. The deadline is 17th December, and you'll be notified if you're part of the sprint a few days later.</p>
     
     <div class="mb-3">
@@ -123,7 +122,6 @@
 ## Topics
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
-  <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-1">Sprint Focus Areas</h3>
   <p class="text-gray-800">To be determined once registration closes based on attendees interest.</p>
 </div>
 
@@ -148,8 +146,6 @@
 ## Activities
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
-  <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-4">Island Experiences</h3>
-  
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
     <div>
       <h4 class="font-medium text-gray-800 mb-3">Water Activities</h4>
@@ -193,8 +189,6 @@
 ## Participants
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
-  <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-4">Attending Developers</h3>
-  
   <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
     <a href="https://github.com/adisbladis" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
       <img src="https://github.com/adisbladis.png" alt="@adisbladis" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
@@ -407,8 +401,6 @@
 ## Organizers
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
-  <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-4">Event Team</h3>
-  
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
     <div class="flex items-center">
       <img src="https://github.com/domenkozar.png" alt="Domen Kožar" class="w-16 h-16 rounded-full mr-4 border border-gray-200">
