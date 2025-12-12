@@ -92,7 +92,7 @@ Privately owned villas in the same street as Niteo House, the sprint venue. 1 to
 
 ## Car Rental
 
-Renting a car is recommended if you want to explore the island. Prices are usually around 200-350 EUR for the week.
+Renting a car is recommended if you want to explore the island. Prices are usually below 200 EUR for the week.
 
 ### Autoreisen
 
