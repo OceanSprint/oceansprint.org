@@ -210,7 +210,7 @@
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Diamond</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">8000</td>
-            <td class="py-3 px-4 text-gray-700">Gold + Prominent logo placement, 4 total reserved seats, keynote mention, premium SWAG package.</td>
+            <td class="py-3 px-4 text-gray-700">Gold + Prominent logo placement, 2 priority seats, keynote highlight, premium SWAG package.</td>
           </tr>
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Gold</td>
