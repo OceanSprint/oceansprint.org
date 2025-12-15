@@ -86,35 +86,35 @@ We're looking for sponsors to cover expenses such as venue, catering, pavilion t
 
 ### Gold
 
-![nixos.svg](assets/2022-2/nixos.svg)
+![nixos.svg](/assets/2022-2/nixos.svg)
 
 ### Silver
 
-![supercede.svg](assets/2022-2/supercede.svg)
+![supercede.svg](/assets/2022-2/supercede.svg)
 
-![flox.png](assets/2022-2/flox.png)
+![flox.png](/assets/2022-2/flox.png)
 
-![determinate_systems.svg](assets/2022-2/determinate_systems.svg)
+![determinate_systems.svg](/assets/2022-2/determinate_systems.svg)
 
-![secunet.svg](assets/2022-2/secunet.svg)
+![secunet.svg](/assets/2022-2/secunet.svg)
 
-![cyberus.svg](assets/2022-2/cyberus.svg)
+![cyberus.svg](/assets/2022-2/cyberus.svg)
 
 ### Bronze
 
-![hercules-logo-rendered-960.png](assets/2022-2/hercules-logo-rendered-960.png)
+![hercules-logo-rendered-960.png](/assets/2022-2/hercules-logo-rendered-960.png)
 
-![logo_tweag_black_with_description (1).png](assets/2022-2/logo_tweag_black_with_description_(1).png)
+![logo_tweag_black_with_description (1).png](/assets/2022-2/logo_tweag_black_with_description_(1).png)
 
-![hypered-1040x685 (1) (1).svg](assets/2022-2/hypered-1040x685_(1)_(1).svg)
+![hypered-1040x685 (1) (1).svg](/assets/2022-2/hypered-1040x685_(1)_(1).svg)
 
 ### Organizers
 
-![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2022-2/logo-small.png)
+![[cachix.org](https://cachix.org/) - Nix binary cache hosting](/assets/2022-2/logo-small.png)
 
 [cachix.org](https://cachix.org/) - Nix binary cache hosting
 
-![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](assets/2022-2/logo_copy.png)
+![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](/assets/2022-2/logo_copy.png)
 
 [Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams
 
