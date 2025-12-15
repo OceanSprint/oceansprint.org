@@ -3,7 +3,8 @@
   <img src="assets/group.jpeg" alt="OceanSprint Group Photo" class="w-full h-auto rounded-md mb-6">
   <div class="grid md:grid-cols-2 gap-8">
     <div>
-      <p class="text-lg mb-6">A week of Nix hacking, collaboration, and knowledge sharing in a beautiful seaside setting.</p>
+      <p class="text-lg mb-4">A week of Nix hacking, collaboration, and knowledge sharing in a beautiful seaside setting.</p>
+      <p class="text-sm text-white text-opacity-70 mb-4"><strong>Application deadline:</strong> January 20th, 2026</p>
 
       <div class="flex space-x-4">
         <a href="https://app.formbricks.com/s/h6722ueqro6i4rdqbl5fxlyq" class="bg-white text-primary font-medium py-2 px-5 rounded-md hover:bg-gray-100 transition duration-200">
@@ -110,6 +111,7 @@
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
   <div class="mb-5">
     <p class="text-gray-800 mb-6">Apply now to secure your spot for this collaborative coding event.</p>
+    <p class="text-gray-600 text-sm mb-4"><strong>Application deadline:</strong> January 20th, 2026</p>
 
     <div class="mb-3">
       <a href="https://app.formbricks.com/s/h6722ueqro6i4rdqbl5fxlyq" class="bg-primary text-white font-medium py-2 px-5 rounded-md hover:bg-primary-dark transition duration-200 inline-block">
