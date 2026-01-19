@@ -79,49 +79,49 @@ We're looking for sponsors to cover expenses such as venue, catering, pavilion t
 
 ### Gold
 
-![[Platonic.systems](http://Platonic.systems) - **Solving your toughest software problems**](assets/2022-1/logo.svg)
+![[Platonic.systems](http://Platonic.systems) - **Solving your toughest software problems**](/assets/2022-1/logo.svg)
 
 [Platonic.systems](http://Platonic.systems) - **Solving your toughest software problems**
 
 ### Silver
 
 ![[cyberus-technology.de](http://cyberus-technology.de/)
- - Secure and Fast Intel Virtualization](assets/2022-1/cyberus.png)
+ - Secure and Fast Intel Virtualization](/assets/2022-1/cyberus.png)
 
 [cyberus-technology.de](http://cyberus-technology.de/)
  - Secure and Fast Intel Virtualization
 
-![Building products to make Nix easier to learn for individuals and easier to scale for teams](assets/2022-1/flox_blue_rgb.png)
+![Building products to make Nix easier to learn for individuals and easier to scale for teams](/assets/2022-1/flox_blue_rgb.png)
 
 Building products to make Nix easier to learn for individuals and easier to scale for teams
 
 ### Bronze
 
 ![[numtide.com](http://numtide.com/)
- - NixOS and DevOps consulting](assets/2022-1/numtide.png)
+ - NixOS and DevOps consulting](/assets/2022-1/numtide.png)
 
 [numtide.com](http://numtide.com/)
  - NixOS and DevOps consulting
 
-![Helsinki Systems - Your partner for hosting, networks and IT solutions running NixOS](assets/2022-1/helsinki-systems.png)
+![Helsinki Systems - Your partner for hosting, networks and IT solutions running NixOS](/assets/2022-1/helsinki-systems.png)
 
 Helsinki Systems - Your partner for hosting, networks and IT solutions running NixOS
 
-![Feeld. Dating for humans.](assets/2022-1/Feeld-LogoLockup-Black-RGB.png)
+![Feeld. Dating for humans.](/assets/2022-1/Feeld-LogoLockup-Black-RGB.png)
 
 Feeld. Dating for humans.
 
-![A software innovation lab that helps deep tech startup](assets/2022-1/logo_tweag_black_with_description.png)
+![A software innovation lab that helps deep tech startup](/assets/2022-1/logo_tweag_black_with_description.png)
 
 A software innovation lab that helps deep tech startup
 
 ### Organizers
 
-![[cachix.org](https://cachix.org/) - Nix binary cache hosting](assets/2022-1/logo-small.png)
+![[cachix.org](https://cachix.org/) - Nix binary cache hosting](/assets/2022-1/logo-small.png)
 
 [cachix.org](https://cachix.org/) - Nix binary cache hosting
 
-![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](assets/2022-1/logo_copy.png)
+![[Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams](/assets/2022-1/logo_copy.png)
 
 [Pareto Security](https://paretosecurity.com) - Zero-trust device monitoring for remote teams
 
