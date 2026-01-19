@@ -98,6 +98,7 @@
     <div>
       <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-1">During the Sprint</h3>
       <p class="text-gray-800">We'll organize catering (breakfast and lunch) during the sprint, which is paid by the sponsors.</p>
+      <p class="text-gray-500 text-sm mt-2"><i>Partners are welcome to join, but food/drinks are not covered for them.</i></p>
     </div>
     <div>
       <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-1">Evenings</h3>
