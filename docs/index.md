@@ -234,6 +234,28 @@
       </table>
     </div>
   </div>
+
+  <div class="border-t border-gray-100 pt-6">
+    <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Gold Sponsors</h4>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="/assets/logos/nixcademy.svg" alt="nixcademy" class="w-full h-full object-contain">
+      </div>
+      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="/assets/logos/secunet.svg" alt="secunet" class="w-full h-full object-contain">
+      </div>
+    </div>
+
+    <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Company Sponsors</h4>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="/assets/logos/lovable.svg" alt="lovable" class="w-full h-full object-contain">
+      </div>
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="/assets/logos/flying_circus.svg" alt="flyingcircus" class="w-full h-full object-contain">
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Organizers
