@@ -254,6 +254,9 @@
       <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
         <img src="/assets/logos/flying_circus.svg" alt="flyingcircus" class="w-full h-full object-contain">
       </div>
+      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="/assets/logos/ctrl-os.svg" alt="CTRL-OS" class="w-full h-full object-contain">
+      </div>
     </div>
   </div>
 </div>
