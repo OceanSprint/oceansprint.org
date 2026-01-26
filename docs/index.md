@@ -189,6 +189,141 @@
   </div>
 </div>
 
+## Participants
+
+<div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+    <a href="https://github.com/roberth" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/roberth.png" alt="@roberth" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@roberth</span>
+    </a>
+    <a href="https://github.com/vkryachko" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/vkryachko.png" alt="@vkryachko" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@vkryachko</span>
+    </a>
+    <a href="https://github.com/mschwaig" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/mschwaig.png" alt="@mschwaig" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@mschwaig</span>
+    </a>
+    <a href="https://github.com/danielfullmer" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/danielfullmer.png" alt="@danielfullmer" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@danielfullmer</span>
+    </a>
+    <a href="https://github.com/SomeoneSerge" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/SomeoneSerge.png" alt="@SomeoneSerge" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@SomeoneSerge</span>
+    </a>
+    <a href="https://github.com/4-gn" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/4-gn.png" alt="@4-gn" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@4-gn</span>
+    </a>
+    <a href="https://github.com/hsjobeki" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/hsjobeki.png" alt="@hsjobeki" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@hsjobeki</span>
+    </a>
+    <a href="https://github.com/sandydoo" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/sandydoo.png" alt="@sandydoo" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@sandydoo</span>
+    </a>
+    <a href="https://github.com/max-privatevoid" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/max-privatevoid.png" alt="@max-privatevoid" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@max-privatevoid</span>
+    </a>
+    <a href="https://github.com/nikstur" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/nikstur.png" alt="@nikstur" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@nikstur</span>
+    </a>
+    <a href="https://github.com/pascalj" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/pascalj.png" alt="@pascalj" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@pascalj</span>
+    </a>
+    <a href="https://github.com/lassulus" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/lassulus.png" alt="@lassulus" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@lassulus</span>
+    </a>
+    <a href="https://github.com/kmein" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/kmein.png" alt="@kmein" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@kmein</span>
+    </a>
+    <a href="https://github.com/aforemny" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/aforemny.png" alt="@aforemny" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@aforemny</span>
+    </a>
+    <a href="https://github.com/ma27" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/ma27.png" alt="@ma27" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@ma27</span>
+    </a>
+    <a href="https://github.com/mightyiam" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/mightyiam.png" alt="@mightyiam" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@mightyiam</span>
+    </a>
+    <a href="https://github.com/nkk0" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/nkk0.png" alt="@nkk0" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@nkk0</span>
+    </a>
+    <a href="https://github.com/lovesegfault" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/lovesegfault.png" alt="@lovesegfault" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@lovesegfault</span>
+    </a>
+    <a href="https://github.com/aciceri" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/aciceri.png" alt="@aciceri" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@aciceri</span>
+    </a>
+    <a href="https://github.com/bew" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/bew.png" alt="@bew" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@bew</span>
+    </a>
+    <a href="https://github.com/Kranzes" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/Kranzes.png" alt="@Kranzes" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@Kranzes</span>
+    </a>
+    <a href="https://github.com/mbrock" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/mbrock.png" alt="@mbrock" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@mbrock</span>
+    </a>
+    <a href="https://github.com/m1-s" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/m1-s.png" alt="@m1-s" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@m1-s</span>
+    </a>
+    <a href="https://github.com/arianvp" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/arianvp.png" alt="@arianvp" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@arianvp</span>
+    </a>
+    <a href="https://github.com/bryanhonof" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/bryanhonof.png" alt="@bryanhonof" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@bryanhonof</span>
+    </a>
+    <a href="https://github.com/katexochen" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/katexochen.png" alt="@katexochen" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@katexochen</span>
+    </a>
+    <a href="https://github.com/RobbieBuxton" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/RobbieBuxton.png" alt="@RobbieBuxton" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@RobbieBuxton</span>
+    </a>
+    <a href="https://github.com/edef1c" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/edef1c.png" alt="@edef1c" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@edef1c</span>
+    </a>
+    <a href="https://github.com/ggpeti" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/ggpeti.png" alt="@ggpeti" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@ggpeti</span>
+    </a>
+    <a href="https://github.com/flokli" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/flokli.png" alt="@flokli" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@flokli</span>
+    </a>
+    <a href="https://github.com/willibutz" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/willibutz.png" alt="@willibutz" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@willibutz</span>
+    </a>
+    <a href="https://github.com/RaitoBezarius" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/RaitoBezarius.png" alt="@RaitoBezarius" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@RaitoBezarius</span>
+    </a>
+  </div>
+</div>
+
 ## Sponsors
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
