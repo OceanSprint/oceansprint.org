@@ -377,25 +377,25 @@
   <div class="border-t border-gray-100 pt-6">
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Gold Sponsors</h4>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
-        <img src="/assets/logos/nixcademy.svg" alt="nixcademy" class="w-full h-full object-contain">
-      </div>
-      <div class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
-        <img src="/assets/logos/secunet.svg" alt="secunet" class="w-full h-full object-contain">
-      </div>
+      <a href="https://nixcademy.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="/assets/logos/nixcademy.svg" alt="Nixcademy - Nix training and consulting" class="w-full h-full object-contain">
+      </a>
+      <a href="https://www.secunet.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="/assets/logos/secunet.svg" alt="secunet - IT security solutions" class="w-full h-full object-contain">
+      </a>
     </div>
 
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Company Sponsors</h4>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
+      <a href="https://lovable.dev/" class="flex items-center justify-center p-3 border border-gray-100 h-16">
         <img src="/assets/logos/lovable.svg" alt="lovable" class="w-full h-full object-contain">
-      </div>
-      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
-        <img src="/assets/logos/flying_circus.svg" alt="flyingcircus" class="w-full h-full object-contain">
-      </div>
-      <div class="flex items-center justify-center p-3 border border-gray-100 h-16">
-        <img src="/assets/logos/ctrl-os.svg" alt="CTRL-OS" class="w-full h-full object-contain">
-      </div>
+      </a>
+      <a href="https://flyingcircus.io/" class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="/assets/logos/flying_circus.svg" alt="Flying Circus - NixOS hosting and managed cloud" class="w-full h-full object-contain">
+      </a>
+      <a href="https://ctrl-os.com/" class="flex items-center justify-center p-3 border border-gray-100 h-16">
+        <img src="/assets/logos/ctrl-os.svg" alt="CTRL-OS - NixOS long-term support" class="w-full h-full object-contain">
+      </a>
     </div>
   </div>
 </div>
