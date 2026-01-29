@@ -357,7 +357,7 @@
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Gold</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">4000</td>
-            <td class="py-3 px-4 text-gray-700">Company + Large logo, shoutout during dinner, SWAG, simple procurement process.</td>
+            <td class="py-3 px-4 text-gray-700">Company + Large logo, 2 reserved seats, shoutout during dinner, SWAG, simple procurement process.</td>
           </tr>
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Company</td>
