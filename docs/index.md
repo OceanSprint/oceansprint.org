@@ -352,17 +352,17 @@
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Diamond</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">8000</td>
-            <td class="py-3 px-4 text-gray-700">Gold + Prominent logo placement, 2 priority seats, keynote highlight, premium SWAG package.</td>
+            <td class="py-3 px-4 text-gray-700">Gold + Prominent logo, keynote, custom SWAG, complex procurement process.</td>
           </tr>
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Gold</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">4000</td>
-            <td class="py-3 px-4 text-gray-700">Company + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG.</td>
+            <td class="py-3 px-4 text-gray-700">Company + Large logo, 2 reserved seats, shoutout during dinner, SWAG, simple procurement process.</td>
           </tr>
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Company</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">1500</td>
-            <td class="py-3 px-4 text-gray-700">Individual + Logo on the T-shirt, company name on name tag + 1 reserved seat.</td>
+            <td class="py-3 px-4 text-gray-700">Individual + Logo on the T-shirt, company name on name tag, 1 reserved seat.</td>
           </tr>
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Individual</td>
