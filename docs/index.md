@@ -386,15 +386,21 @@
     </div>
 
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Company Sponsors</h4>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <a href="https://lovable.dev/" class="flex items-center justify-center p-3 border border-gray-100 h-16">
-        <img src="/assets/logos/lovable.svg" alt="lovable" class="w-full h-full object-contain">
+    <div class="flex flex-wrap justify-center items-center gap-6">
+      <a href="https://lovable.dev/" class="flex items-center justify-center">
+        <img src="/assets/logos/lovable.svg" alt="lovable" style="height:40px;width:auto;">
       </a>
-      <a href="https://flyingcircus.io/" class="flex items-center justify-center p-3 border border-gray-100 h-16">
-        <img src="/assets/logos/flying_circus.svg" alt="Flying Circus - NixOS hosting and managed cloud" class="w-full h-full object-contain">
+      <a href="https://flyingcircus.io/" class="flex items-center justify-center">
+        <img src="/assets/logos/flying_circus.svg" alt="Flying Circus - NixOS hosting and managed cloud" style="height:40px;width:auto;">
       </a>
-      <a href="https://ctrl-os.com/" class="flex items-center justify-center p-3 border border-gray-100 h-16">
-        <img src="/assets/logos/ctrl-os.svg" alt="CTRL-OS - NixOS long-term support" class="w-full h-full object-contain">
+      <a href="https://ctrl-os.com/" class="flex items-center justify-center">
+        <img src="/assets/logos/ctrl-os.svg" alt="CTRL-OS - NixOS long-term support" style="height:40px;width:auto;">
+      </a>
+      <a href="https://namespace.so/" class="flex items-center justify-center">
+        <img src="/assets/logos/namespace.svg" alt="Namespace - developer-optimized compute platform" style="height:40px;width:auto;">
+      </a>
+      <a href="https://nixos.org/community/#foundation" class="flex items-center justify-center">
+        <img src="/assets/logos/nixos.svg" alt="NixOS Foundation" style="height:40px;width:auto;">
       </a>
     </div>
   </div>
