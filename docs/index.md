@@ -335,7 +335,7 @@
     <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Support the Event</h3>
     <p class="text-gray-800 mb-2">We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.</p>
     <p class="text-gray-600 text-sm mb-2">Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.</p>
-    <p class="text-gray-600 text-sm">Our target budget is 15000 EUR. Reach out to <a href="mailto:sponsors@oceansprint.org" class="text-primary">sponsors@oceansprint.org</a>.</p>
+    <p class="text-gray-600 text-sm">Our minimal budget is 15000 EUR. Whatever is extra means we can accept more sprinters and cover for some niceties such as a welcome party. Reach out to <a href="mailto:sponsors@oceansprint.org" class="text-primary">sponsors@oceansprint.org</a>.</p>
   </div>
 
   <div class="border-t border-gray-100 pt-6 mb-6">
