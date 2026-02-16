@@ -335,7 +335,7 @@
     <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Support the Event</h3>
     <p class="text-gray-800 mb-2">We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.</p>
     <p class="text-gray-600 text-sm mb-2">Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.</p>
-    <p class="text-gray-600 text-sm">Our target budget is 15000 EUR. Reach out to <a href="mailto:sponsors@oceansprint.org" class="text-primary">sponsors@oceansprint.org</a>.</p>
+    <p class="text-gray-600 text-sm">Our minimal budget is 15000 EUR. Whatever is extra means we can accept more sprinters and cover for some niceties such as a welcome party. Reach out to <a href="mailto:sponsors@oceansprint.org" class="text-primary">sponsors@oceansprint.org</a>.</p>
   </div>
 
   <div class="border-t border-gray-100 pt-6 mb-6">
@@ -362,12 +362,12 @@
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Company</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">1500</td>
-            <td class="py-3 px-4 text-gray-700">Individual + Logo on the T-shirt, company name on name tag, 1 reserved seat.</td>
+            <td class="py-3 px-4 text-gray-700">Logo on Website &amp; T-shirt, company name on name tag, 1 reserved seat.</td>
           </tr>
           <tr>
             <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Individual</td>
             <td class="py-3 px-4 text-gray-700 border-r border-gray-100">500</td>
-            <td class="py-3 px-4 text-gray-700">Logo on the website.</td>
+            <td class="py-3 px-4 text-gray-700">Link on the website.</td>
           </tr>
         </tbody>
       </table>
@@ -375,20 +375,30 @@
   </div>
 
   <div class="border-t border-gray-100 pt-6">
+    <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Diamond Sponsors</h4>
+    <div class="grid grid-cols-1 gap-8 mb-12">
+      <a href="https://anthropic.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+        <img src="/assets/logos/anthropic.svg" alt="Anthropic" class="w-full h-full object-contain">
+      </a>
+    </div>
+
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Gold Sponsors</h4>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-      <a href="https://nixcademy.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+      <a href="https://nixcademy.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-44">
         <img src="/assets/logos/nixcademy.svg" alt="Nixcademy - Nix training and consulting" class="w-full h-full object-contain">
       </a>
-      <a href="https://www.secunet.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
+      <a href="https://www.secunet.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-44">
         <img src="/assets/logos/secunet.svg" alt="secunet - IT security solutions" class="w-full h-full object-contain">
+      </a>
+      <a href="https://mercury.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-44">
+        <img src="/assets/logos/mercury.svg" alt="Mercury" class="w-full h-full object-contain">
       </a>
     </div>
 
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Company Sponsors</h4>
     <div class="flex flex-wrap justify-center items-center gap-6">
       <a href="https://lovable.dev/" class="flex items-center justify-center">
-        <img src="/assets/logos/lovable.svg" alt="lovable" style="height:40px;width:auto;">
+        <img src="/assets/logos/lovable.svg" alt="lovable" style="height:20px;width:auto;">
       </a>
       <a href="https://flyingcircus.io/" class="flex items-center justify-center">
         <img src="/assets/logos/flying_circus.svg" alt="Flying Circus - NixOS hosting and managed cloud" style="height:40px;width:auto;">
@@ -397,12 +407,17 @@
         <img src="/assets/logos/ctrl-os.svg" alt="CTRL-OS - NixOS long-term support" style="height:40px;width:auto;">
       </a>
       <a href="https://namespace.so/" class="flex items-center justify-center">
-        <img src="/assets/logos/namespace.svg" alt="Namespace - developer-optimized compute platform" style="height:40px;width:auto;">
+        <img src="/assets/logos/namespace.svg" alt="Namespace - Nix-friendly GitHub Actions runners" style="height:40px;width:auto;">
       </a>
       <a href="https://nixos.org/community/#foundation" class="flex items-center justify-center">
         <img src="/assets/logos/nixos.svg" alt="NixOS Foundation" style="height:40px;width:auto;">
       </a>
     </div>
+
+    <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Individual Sponsors</h4>
+    <ul class="list-disc list-inside text-gray-700">
+      <li><a href="https://garbas.si/" class="text-gray-700 hover:text-primary">Rok Garbas</a></li>
+    </ul>
   </div>
 </div>
 
