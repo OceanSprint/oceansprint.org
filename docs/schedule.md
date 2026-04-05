@@ -3,7 +3,7 @@
 |   Day        | Time      | Event                  | Location                                                            |
 |--------------|-----------|------------------------|---------------------------------------------------------------------|
 | **Sunday**   | All day   | Arrivals               | -                                                                   |
-|              | 6:00 PM   | Welcome Dinner Party   | [Poco Loco](https://maps.app.goo.gl/e9dmpN2VC5LzGTBN7)            |
+|              | 6:00 PM   | Welcome Dinner Party   | [Poco Loco](https://maps.app.goo.gl/e9dmpN2VC5LzGTBN7)              |
 | **Monday**   | 8:00 AM   | Venue Opens            | Niteo House                                                         |
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
 |              | 11:30 AM  | Yoga                   | Niteo House                                                         |
@@ -14,13 +14,13 @@
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
 |              | 11:30 AM  | Yoga                   | Niteo House                                                         |
 |              | 12:00 PM  | Lunch Catering         | Niteo House                                                         |
-|              | 7:00 PM   | Dinner Catering        | Niteo House - [Leos Burger](https://maps.app.goo.gl/maj6FU414uVBiuqq5) |
+|              | 7:00 PM   | Dinner                 | Niteo House - Burger delivery                                       |
 |              | 11:00 PM  | Venue Closes           | Niteo House                                                         |
 |**Wednesday** | 8:00 AM   | Venue Opens            | Niteo House                                                         |
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
 |              | 11:30 AM  | Yoga                   | Niteo House                                                         |
 |              | 12:00 PM  | Lunch Catering         | Niteo House                                                         |
-|              | 9:30 PM   | Dinner Party           | [La Tabla](https://maps.app.goo.gl/eEKjWybpwmddcgSv9)             |
+|              | 9:30 PM   | Dinner Party           | [La Tabla](https://maps.app.goo.gl/eEKjWybpwmddcgSv9)               |
 | **Thursday** | 8:00 AM   | Venue Opens            | Niteo House                                                         |
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
 |              | 11:30 AM  | Yoga                   | Niteo House                                                         |
@@ -33,4 +33,4 @@
 |              | 12:00 PM  | Lunch Catering         | Niteo House                                                         |
 |              | 3:00 PM   | Venue Cleaning         | Niteo House                                                         |
 |              | 4:00 PM   | Venue Closes           | Niteo House                                                         |
-|              | 6:00 PM   | Farewell Dinner        | [Pizza Time](https://maps.app.goo.gl/eCo6HebYCdD6aUs49)           |
+|              | 6:00 PM   | Farewell Dinner        | [Pizza Time](https://maps.app.goo.gl/eCo6HebYCdD6aUs49)             |
