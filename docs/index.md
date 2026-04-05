@@ -221,6 +221,10 @@
       <img src="https://github.com/danielfullmer.png" alt="@danielfullmer" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
       <span class="text-gray-800 text-sm block">@danielfullmer</span>
     </a>
+    <a href="https://github.com/drorspei" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/drorspei.png" alt="@drorspei" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@drorspei</span>
+    </a>
     <a href="https://github.com/edef1c" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
       <img src="https://github.com/edef1c.png" alt="@edef1c" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
       <span class="text-gray-800 text-sm block">@edef1c</span>
