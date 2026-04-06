@@ -221,6 +221,10 @@
       <img src="https://github.com/danielfullmer.png" alt="@danielfullmer" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
       <span class="text-gray-800 text-sm block">@danielfullmer</span>
     </a>
+    <a href="https://github.com/DavHau" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
+      <img src="https://github.com/DavHau.png" alt="@DavHau" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
+      <span class="text-gray-800 text-sm block">@DavHau</span>
+    </a>
     <a href="https://github.com/drorspei" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
       <img src="https://github.com/drorspei.png" alt="@drorspei" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
       <span class="text-gray-800 text-sm block">@drorspei</span>
@@ -285,10 +289,7 @@
       <img src="https://github.com/max-privatevoid.png" alt="@max-privatevoid" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
       <span class="text-gray-800 text-sm block">@max-privatevoid</span>
     </a>
-    <a href="https://github.com/mbrock" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
-      <img src="https://github.com/mbrock.png" alt="@mbrock" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
-      <span class="text-gray-800 text-sm block">@mbrock</span>
-    </a>
+
     <a href="https://github.com/mschwaig" class="border border-gray-100 rounded p-3 text-center hover:border-primary transition-colors duration-200">
       <img src="https://github.com/mschwaig.png" alt="@mschwaig" class="w-12 h-12 rounded-full mb-2 mx-auto border border-gray-200">
       <span class="text-gray-800 text-sm block">@mschwaig</span>
@@ -416,6 +417,9 @@
       </a>
       <a href="https://mercury.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-44">
         <img src="/assets/logos/mercury.svg" alt="Mercury" class="w-full h-full object-contain">
+      </a>
+      <a href="https://clan.lol/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-44">
+        <img src="/assets/logos/clan.svg" alt="Clan" class="w-full h-full object-contain">
       </a>
     </div>
 
