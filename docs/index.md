@@ -408,7 +408,7 @@
     </div>
 
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Gold Sponsors</h4>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
       <a href="https://nixcademy.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-44">
         <img src="/assets/logos/nixcademy.svg" alt="Nixcademy - Nix training and consulting" class="w-full h-full object-contain">
       </a>
@@ -424,7 +424,7 @@
     </div>
 
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Company Sponsors</h4>
-    <div class="flex flex-wrap justify-center items-center gap-6">
+    <div class="flex justify-center items-center gap-6">
       <a href="https://lovable.dev/" class="flex items-center justify-center">
         <img src="/assets/logos/lovable.svg" alt="lovable" style="height:20px;width:auto;">
       </a>
