@@ -6,6 +6,7 @@
 |              | 6:00 PM   | Welcome Dinner Party   | [Poco Loco](https://maps.app.goo.gl/e9dmpN2VC5LzGTBN7)              |
 | **Monday**   | 8:00 AM   | Venue Opens            | Niteo House                                                         |
 |              | 9:00 AM   | Breakfast              | Niteo House                                                         |
+|              | 10:00 AM  | Standup                | Niteo House                                                         |
 |              | 11:30 AM  | Yoga                   | Niteo House                                                         |
 |              | 12:00 PM  | Lunch Catering         | Niteo House                                                         |
 |              | 7:00 PM   | Dinner Catering        | Niteo House - BBQ                                                   |
