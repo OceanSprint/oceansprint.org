@@ -356,48 +356,6 @@
 ## Sponsors
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
-  <div class="mb-6">
-    <h3 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Support the Event</h3>
-    <p class="text-gray-800 mb-2">We're looking for sponsors to cover expenses such as venue, catering, T-shirt printing and some of the activities.</p>
-    <p class="text-gray-600 text-sm mb-2">Please help us make this a productive event by chipping in, so we can focus on coding instead of grocery shopping and cooking.</p>
-    <p class="text-gray-600 text-sm">Our minimal budget is 15000 EUR. Whatever is extra means we can accept more sprinters and cover for some niceties such as a welcome party. Reach out to <a href="mailto:sponsors@oceansprint.org" class="text-primary">sponsors@oceansprint.org</a>.</p>
-  </div>
-
-  <div class="border-t border-gray-100 pt-6 mb-6">
-    <div class="overflow-x-auto">
-      <table class="min-w-full border-collapse">
-        <thead>
-          <tr class="border-b border-gray-200">
-            <th class="pb-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider border-r border-gray-100">Level</th>
-            <th class="pb-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider border-r border-gray-100">Contribution (EUR)</th>
-            <th class="pb-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Perks</th>
-          </tr>
-        </thead>
-        <tbody class="divide-y divide-gray-100">
-          <tr>
-            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Diamond</td>
-            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">8000</td>
-            <td class="py-3 px-4 text-gray-700">Gold + Prominent logo, keynote, custom SWAG, complex procurement process.</td>
-          </tr>
-          <tr>
-            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Gold</td>
-            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">4000</td>
-            <td class="py-3 px-4 text-gray-700">Company + Large logo, 2 reserved seats, shoutout during dinner, SWAG, simple procurement process.</td>
-          </tr>
-          <tr>
-            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Company</td>
-            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">1500</td>
-            <td class="py-3 px-4 text-gray-700">Logo on Website &amp; T-shirt, company name on name tag, 1 reserved seat.</td>
-          </tr>
-          <tr>
-            <td class="py-3 px-4 text-gray-900 border-r border-gray-100">Individual</td>
-            <td class="py-3 px-4 text-gray-700 border-r border-gray-100">500</td>
-            <td class="py-3 px-4 text-gray-700">Link on the website.</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
 
   <div class="border-t border-gray-100 pt-6">
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Diamond Sponsors</h4>
