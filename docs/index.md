@@ -357,7 +357,7 @@
 
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
 
-  <div class="border-t border-gray-100 pt-6">
+  <div>
     <h4 class="font-medium text-gray-500 uppercase text-sm tracking-wider mb-3">Diamond Sponsor</h4>
     <div class="grid grid-cols-1 gap-8 mb-12">
       <a href="https://anthropic.com/" class="flex items-center justify-center p-6 border border-gray-100 shadow-sm rounded-lg h-32">
