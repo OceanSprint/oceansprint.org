@@ -1,13 +1,12 @@
-# Nix OceanSprint 2026
+# Nix OceanSprint 2027
 <div class="bg-primary text-white rounded-lg p-8 mb-8">
   <img src="assets/group.jpeg" alt="OceanSprint Group Photo" class="w-full h-auto rounded-md mb-6">
   <div class="grid md:grid-cols-2 gap-8">
     <div>
       <p class="text-lg mb-4">A week of Nix hacking, collaboration, and knowledge sharing in a beautiful seaside setting.</p>
-      <p class="text-sm text-white text-opacity-70 mb-4"><strong>Application deadline:</strong> January 20th, 2026</p>
 
       <div class="flex space-x-4">
-        <a href="https://app.formbricks.com/s/h6722ueqro6i4rdqbl5fxlyq" class="bg-white text-primary font-medium py-2 px-5 rounded-md hover:bg-gray-100 transition duration-200">
+        <a href="https://app.formbricks.com/s/sn0g6ko10a4iw36gdpjy55uu" class="bg-white text-primary font-medium py-2 px-5 rounded-md hover:bg-gray-100 transition duration-200">
           Apply Now
         </a>
         <a href="/schedule/" class="border border-white text-white font-medium py-2 px-5 rounded-md hover:bg-white hover:bg-opacity-10 transition duration-200">
@@ -20,8 +19,8 @@
       <div class="space-y-6">
         <div>
           <h3 class="font-medium text-white text-opacity-70 uppercase text-sm tracking-wider mb-1">When</h3>
-          <p class="text-lg"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nix+OceanSprint+2026&dates=20260412/20260418&location=Lanzarote,+Canary+Islands&details=A+week+of+Nix+hacking+near+the+ocean" class="text-white hover:underline" target="_blank">12/04/2026 - 17/04/2026</a></p>
-          <p class="text-sm text-white text-opacity-70">Sunday to Friday</p>
+          <p class="text-lg">November 2027</p>
+          <p class="text-sm text-white text-opacity-70">Exact dates to be announced</p>
         </div>
 
         <div>
@@ -112,10 +111,9 @@
 <div class="bg-white border border-gray-200 rounded-md p-6 mb-8">
   <div class="mb-5">
     <p class="text-gray-800 mb-6">Apply now to secure your spot for this collaborative coding event.</p>
-    <p class="text-gray-600 text-sm mb-4"><strong>Application deadline:</strong> January 20th, 2026</p>
 
     <div class="mb-3">
-      <a href="https://app.formbricks.com/s/h6722ueqro6i4rdqbl5fxlyq" class="bg-primary text-white font-medium py-2 px-5 rounded-md hover:bg-primary-dark transition duration-200 inline-block">
+      <a href="https://app.formbricks.com/s/sn0g6ko10a4iw36gdpjy55uu" class="bg-primary text-white font-medium py-2 px-5 rounded-md hover:bg-primary-dark transition duration-200 inline-block">
         Fill Out Application Form
       </a>
     </div>
